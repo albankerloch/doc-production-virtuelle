@@ -2,17 +2,16 @@
 
 ## Blender
 
-* [Les modes de Blender](README.md)
-* [Créer une pièce](<README (1).md>)
-* [Se déplacer](blender/se-deplacer.md)
+* [Modes on Blender](README.md)
+* [Create a room](blender/create-a-room.md)
 * [Exporter en USD](blender/exporter-en-usd.md)
-* [Liens de tutoriels](blender/liens-de-tutoriels.md)
+* [Links](blender/links.md)
 
 ***
 
-* [Raccourcis](raccourcis.md)
+* [Shorcuts](shorcuts.md)
 
 ## Ligthcraft jetset
 
-* [Créer un projet](ligthcraft-jetset/creer-un-projet.md)
-* [Liens des tutoriels](ligthcraft-jetset/liens-des-tutoriels.md)
+* [Create a projet](ligthcraft-jetset/create-a-projet.md)
+* [Links](ligthcraft-jetset/links.md)

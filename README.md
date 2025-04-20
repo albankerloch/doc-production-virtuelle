@@ -1,4 +1,4 @@
-# Les modes de Blender
+# Modes on Blender
 
 **Object Mode**
 
