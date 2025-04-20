@@ -10,6 +10,7 @@ Navigation / View :
 | Middle Mouse + Drag         | Orbit (around central point) |
 | Shift + Middle Mouse + Drag | Pan (around central point)   |
 | . (Numb Pad)                | Zoom on selected object      |
+| NumpPad 0                   | Camera Perspective           |
 
 Moving&#x20;
 
@@ -21,6 +22,8 @@ Moving&#x20;
 | Select + G + Middle Mouse  | Move only on one axis            |
 | Escape (or Right Click)    | Cancel movement                  |
 | Left Click                 | Confirm movement                 |
+| Select + S                 | Scale state (white contour)      |
+| Select + R                 | Rotate state (white contour)     |
 
 Add
 

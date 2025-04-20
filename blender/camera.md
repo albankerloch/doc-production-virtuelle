@@ -1,0 +1,11 @@
+# Camera
+
+**Lock Camera to View (camera moves like navigation)**
+
+* NumPad 0 (Object Mode)
+* Select Camera (on Scence Collection)
+* N
+* View tab
+* Tick Camera to View
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

@@ -11,7 +11,7 @@ Viewport Shading :
 
 Action :&#x20;
 
-* User Perspective (default)
+* User Perspective (default) -> Camera Perspective (NumPad + 0)
 * Cusor&#x20;
 * Move : move an object
 * Rotate : rotate an object
