@@ -1,8 +1,24 @@
 # Les modes de Blender
 
-Object Mode
+**Object Mode**
 
-Edit Mode
+Viewport Shading :
 
-Sculpt Mode
+* Wireframe
+* Solid (default) : Light render in grey
+* Material Preview :&#x20;
+* Rendered : comme à l'export
+
+Action :&#x20;
+
+* User Perspective (default)
+* Cusor&#x20;
+* Move : move an object
+* Rotate : rotate an object
+
+**Render**&#x20;
+
+**Edit Mode**
+
+**Sculpt Mode**
 
