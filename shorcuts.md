@@ -13,7 +13,7 @@ Navigation / View :
 | NumpPad 0                   | Camera Perspective           |
 | Tab                         | Object / Edit Mode           |
 
-Moving&#x20;
+Moving Objects
 
 | Bouton                                   | Action                           |
 | ---------------------------------------- | -------------------------------- |
@@ -27,7 +27,7 @@ Moving&#x20;
 | Select + R                               | Rotate state (white contour)     |
 | Select Face + E \[Edit Mode]             | Extrude : add more faces         |
 
-Object
+Create Objects
 
 | Bouton                  | Action                                |
 | ----------------------- | ------------------------------------- |

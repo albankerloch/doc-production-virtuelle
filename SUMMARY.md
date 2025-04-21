@@ -10,11 +10,11 @@
 * [Render](blender/render.md)
 * [Export in USD](blender/exporter-en-usd.md)
 * [Create a room](<README (1).md>)
-* [Links](blender/links.md)
 
 ***
 
 * [Shorcuts](shorcuts.md)
+* [Links](links.md)
 
 ## Ligthcraft jetset
 
