@@ -48,3 +48,4 @@
 * Open texture to paint on left side
 * Change Paint to approriate color (and strengh)
 * Paint on either side (UV unwrapping or Viewport)
+* Click on Image (on left side) ⇒ Save as
