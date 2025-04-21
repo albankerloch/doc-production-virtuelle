@@ -1,2 +1,0 @@
-# Exporter en USD
-

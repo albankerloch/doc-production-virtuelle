@@ -18,7 +18,7 @@
 
 But the silouhette is still straigth
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Subdivision Surface**
 
@@ -36,7 +36,22 @@ or :
 
 The silouhette is now curved : (add resolutions with more faces as level raises)
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
+**Proportional Editing \[Edit Mode]**
 
+Instead of moving a face / edge / vextex, move all vertexes inside a circle of influence
 
+* Click on Proportionnal Editing
+* Select a vertex (Orange contour)
+* G ⇒ Move state
+* Scroll ⇒ Increase or decrease the circle of influence
+* Select elsewhere ⇒ confirm movement
+
+<figure><img src=".gitbook/assets/Capture d&#x27;écran 2025-04-21 092145.png" alt="" width="375"><figcaption></figcaption></figure>
+
+**Select through Object**
+
+Click Toogle X-Ray, then Select multiples vertexes (then Move, Scale, Rotate)
+
+<figure><img src=".gitbook/assets/Capture d&#x27;écran 2025-04-21 113000.png" alt=""><figcaption></figcaption></figure>

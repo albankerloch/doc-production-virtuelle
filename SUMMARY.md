@@ -7,7 +7,7 @@
 * [Camera](blender/camera.md)
 * [Material](blender/material.md)
 * [Render](blender/render.md)
-* [Export in USD](blender/export-in-usd.md)
+* [Export in USD](blender/exporter-en-usd.md)
 * [Create a room](<README (1).md>)
 * [Links](blender/links.md)
 

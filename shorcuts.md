@@ -15,19 +15,23 @@ Navigation / View :
 
 Moving&#x20;
 
-| Bouton                     | Action                           |
-| -------------------------- | -------------------------------- |
-| Click on object            | Objet selection (orange contour) |
-| Select + G                 | Move state (white contour)       |
-| Select + G + X (or Y or Z) | Move only on X axis (or Y or Z)  |
-| Select + G + Middle Mouse  | Move only on one axis            |
-| Escape (or Right Click)    | Cancel movement                  |
-| Left Click                 | Confirm movement                 |
-| Select + S                 | Scale state (white contour)      |
-| Select + R                 | Rotate state (white contour)     |
+| Bouton                                   | Action                           |
+| ---------------------------------------- | -------------------------------- |
+| Click on object / edge / face / vertexes | Objet selection (orange contour) |
+| Select + G                               | Move state (white contour)       |
+| Select + G + X (or Y or Z)               | Move only on X axis (or Y or Z)  |
+| Select + G + Middle Mouse                | Move only on one axis            |
+| Escape (or Right Click)                  | Cancel movement                  |
+| Left Click                               | Confirm movement                 |
+| Select + S                               | Scale state (white contour)      |
+| Select + R                               | Rotate state (white contour)     |
 
-Add
+Object
 
-| Bouton    | Action           |
-| --------- | ---------------- |
-| Shift + A | Add a new object |
+| Bouton                  | Action                 |
+| ----------------------- | ---------------------- |
+| Shift + A               | Add a new object       |
+| Shift + D               | Duplicate              |
+| Ctrl + 1 (Keyboard)     | Subdivision Modifier   |
+| Alt + Click on a vertex | Edge Selection         |
+| F2                      | Rename Selected Object |
