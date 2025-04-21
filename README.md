@@ -1,24 +1,17 @@
-# Modes on Blender
+# Add an Object
 
-**Object Mode**
+**Add an Object**
 
-Viewport Shading :
+* Shift + A ⇒ Select type of Object
+* Add bar (or F9) ⇒ Adjust dimensions / resolution / location **(only available at that moment)**
+* Select other object ⇒ Dimensions  / resolution / location confirmed
 
-* Wireframe
-* Solid (default) : Light render in grey
-* Material Preview :&#x20;
-* Rendered : comme à l'export
+<figure><img src=".gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Action :&#x20;
+**Shade Smooth**
 
-* User Perspective (default) -> Camera Perspective (NumPad + 0)
-* Cusor&#x20;
-* Move : move an object
-* Rotate : rotate an object
+* Left Click ⇒ Select Object
+* Right Click ⇒ Object Menu&#x20;
+* Shade Smooth ⇒ averaging faces without more render time
 
-**Render**&#x20;
-
-**Edit Mode**
-
-**Sculpt Mode**
-
+<figure><img src=".gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
