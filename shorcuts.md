@@ -39,3 +39,16 @@ Create Objects
 | F2                      | Rename Selected Object                |
 | H                       | Hide selected vertices of an Object   |
 | Alt+H                   | Unhide selected vertices of an Object |
+
+**Sculpting Mode**
+
+| Bouton    | Action                            |
+| --------- | --------------------------------- |
+| I         | Inflate Tool                      |
+| F         | Change size of the brush (radius) |
+| Shift + F | Change strength of the brush      |
+| G         | Grab Tool                         |
+| M         | Mask Tool                         |
+| Ctrl + I  | Invert (Mask)                     |
+| S         | Smooth Tool                       |
+
