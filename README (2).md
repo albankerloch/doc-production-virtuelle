@@ -16,27 +16,9 @@
 
 <figure><img src=".gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-But the silouhette is still straigth
+But the silouhette is still straigth ⇒ use Subdivision Modifier
 
 <figure><img src=".gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
-**Subdivision Surface**
-
-* Ctrl + 1 (Keyboard)
-
-or :
-
-* Left Click ⇒ Select Object
-* Properties Tab
-* Add Modifier
-* Generate
-* Subdivision Surface
-
-<figure><img src=".gitbook/assets/Capture d&#x27;écran 2025-04-21 085844.png" alt="" width="375"><figcaption></figcaption></figure>
-
-The silouhette is now curved : (add resolutions with more faces as level raises) ⇒ Subdivision Modifier
-
-<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Proportional Editing \[Edit Mode]**
 
