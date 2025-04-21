@@ -42,3 +42,6 @@ Edge Data ⇒ Crease Inner : set to 1 to add sharp thickness in the inner part (
 
 <figure><img src="../.gitbook/assets/image (9).png" alt="" width="188"><figcaption><p>Without Solidify modifier</p></figcaption></figure>
 
+**Shrinkwrap modifier**&#x20;
+
+Deform ⇒ Shrinkwrap : project shape on another object (ex : icing on donut)
