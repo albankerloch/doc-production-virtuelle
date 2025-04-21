@@ -12,6 +12,7 @@ Navigation / View :
 | . (Numb Pad)                | Zoom on selected object      |
 | NumpPad 0                   | Camera Perspective           |
 | Tab                         | Object / Edit Mode           |
+| Select + /                  | Isolate Selected Object      |
 
 Moving Objects
 
