@@ -10,7 +10,7 @@
 
 * Wireframe
 * Solid (default) : Light render in grey
-* Material Preview :&#x20;
+* Material Preview : Rendered with HDRI lighting
 * Rendered : as exported
 
 **Action**
@@ -19,6 +19,11 @@
 * Cusor&#x20;
 * Move : move an object
 * Rotate : rotate an object
+
+Windows
+
+* Layout (defaut)
+* Shading : to&#x20;
 
 
 

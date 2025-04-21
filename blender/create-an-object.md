@@ -49,3 +49,10 @@ Snap Target
 * Face projected : snap all the faces affected by the movement
 
 <figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+
+**Group two objects**
+
+* Select the child
+* Select the parent (Shift + Select)
+* Cltr + P&#x20;
+* Object (Keep Transform) : follow movement
