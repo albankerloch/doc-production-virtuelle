@@ -1,22 +1,24 @@
 # Modes on Blender
 
-**Object Mode (Object selectable)**
+**Modes**&#x20;
 
-Viewport Shading :
+* Object Mode : See Object as Rendered, Move them
+* Edit Mode : Change Vertices by selecting them
+* Sculpt Mode : Change Vertices organicaly
+
+**Viewport Shading**
 
 * Wireframe
 * Solid (default) : Light render in grey
 * Material Preview :&#x20;
-* Rendered : comme à l'export
+* Rendered : as exported
 
-Action :&#x20;
+**Action**
 
 * User Perspective (default) -> Camera Perspective (NumPad + 0)
 * Cusor&#x20;
 * Move : move an object
 * Rotate : rotate an object
 
-**Edit Mode (Change Vertices by selecting them)**
 
-**Sculpt Mode (Change Vertices organicaly)**
 
