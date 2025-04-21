@@ -17,7 +17,7 @@ Moving&#x20;
 
 | Bouton                                   | Action                           |
 | ---------------------------------------- | -------------------------------- |
-| Click on object / edge / face / vertexes | Objet selection (orange contour) |
+| Click on object / edge / face / vertices | Objet selection (orange contour) |
 | Select + G                               | Move state (white contour)       |
 | Select + G + X (or Y or Z)               | Move only on X axis (or Y or Z)  |
 | Select + G + Middle Mouse                | Move only on one axis            |

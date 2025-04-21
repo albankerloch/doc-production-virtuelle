@@ -40,7 +40,7 @@ The silouhette is now curved : (add resolutions with more faces as level raises)
 
 **Proportional Editing \[Edit Mode]**
 
-Instead of moving a face / edge / vextex, move all vertexes inside a circle of influence
+Instead of moving a face / edge / vextex, move all vertices inside a circle of influence
 
 * Click on Proportionnal Editing
 * Select a vertex (Orange contour)
@@ -52,6 +52,6 @@ Instead of moving a face / edge / vextex, move all vertexes inside a circle of i
 
 **Select through Object**
 
-Click Toogle X-Ray, then Select multiples vertexes (then Move, Scale, Rotate)
+Click Toogle X-Ray, then Select multiples vertices (then Move, Scale, Rotate or Delete)
 
 <figure><img src=".gitbook/assets/Capture d&#x27;écran 2025-04-21 113000.png" alt=""><figcaption></figcaption></figure>
