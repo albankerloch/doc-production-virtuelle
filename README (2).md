@@ -34,7 +34,7 @@ or :
 
 <figure><img src=".gitbook/assets/Capture d&#x27;écran 2025-04-21 085844.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The silouhette is now curved : (add resolutions with more faces as level raises)
+The silouhette is now curved : (add resolutions with more faces as level raises) ⇒ Subdivision Modifier
 
 <figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -50,8 +50,20 @@ Instead of moving a face / edge / vextex, move all vertices inside a circle of i
 
 <figure><img src=".gitbook/assets/Capture d&#x27;écran 2025-04-21 092145.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Select through Object**
+**Select through Object \[Edit Mode]**
 
 Click Toogle X-Ray, then Select multiples vertices (then Move, Scale, Rotate or Delete)
 
 <figure><img src=".gitbook/assets/Capture d&#x27;écran 2025-04-21 113000.png" alt=""><figcaption></figcaption></figure>
+
+**Snap**
+
+When moving a vertex with Porportional Editing, you can enable Snap to stick vertices to other objects
+
+Snap Target
+
+* Increment (default) : snap to the grid
+* Face : snap only the selected vertex
+* Face projected : snap all the faces affected by the movement
+
+<figure><img src=".gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>

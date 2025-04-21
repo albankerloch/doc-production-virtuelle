@@ -4,6 +4,7 @@
 
 * [Modes on Blender](README.md)
 * [Add an Object](<README (2).md>)
+* [Modifiers](blender/modifiers.md)
 * [Camera](blender/camera.md)
 * [Material](blender/material.md)
 * [Render](blender/render.md)

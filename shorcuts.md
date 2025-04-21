@@ -25,13 +25,17 @@ Moving&#x20;
 | Left Click                               | Confirm movement                 |
 | Select + S                               | Scale state (white contour)      |
 | Select + R                               | Rotate state (white contour)     |
+| Select Face + E \[Edit Mode]             | Extrude : add more faces         |
 
 Object
 
-| Bouton                  | Action                 |
-| ----------------------- | ---------------------- |
-| Shift + A               | Add a new object       |
-| Shift + D               | Duplicate              |
-| Ctrl + 1 (Keyboard)     | Subdivision Modifier   |
-| Alt + Click on a vertex | Edge Selection         |
-| F2                      | Rename Selected Object |
+| Bouton                  | Action                                |
+| ----------------------- | ------------------------------------- |
+| Shift + A               | Add a new object                      |
+| Shift + D               | Duplicate                             |
+| Ctrl + 1 (Keyboard)     | Subdivision Modifier                  |
+| Alt + Click on a vertex | Edge Selection                        |
+| Ctrl + + (NumPad)       | Select more vertices (above)          |
+| F2                      | Rename Selected Object                |
+| H                       | Hide selected vertices of an Object   |
+| Alt+H                   | Unhide selected vertices of an Object |
