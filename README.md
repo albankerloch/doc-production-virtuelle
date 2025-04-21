@@ -5,6 +5,7 @@
 * Object Mode : See Object as Rendered, Move them
 * Edit Mode : Change Vertices by selecting them
 * Sculpt Mode : Change Vertices organicaly
+* Weight Paint : Mask for Mesh (value between 0 and 1 on it)
 
 **Viewport Shading**
 
