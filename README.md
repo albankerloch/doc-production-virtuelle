@@ -16,7 +16,7 @@ Action :&#x20;
 * Move : move an object
 * Rotate : rotate an object
 
-**Edit Mode (Vertexes selectable)**
+**Edit Mode (Change Vertices by selecting them)**
 
-**Sculpt Mode**
+**Sculpt Mode (Change Vertices organicaly)**
 
