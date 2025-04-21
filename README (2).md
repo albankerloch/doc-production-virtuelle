@@ -1,24 +1,42 @@
-# Modes on Blender
+# Add an Object
 
-**Object Mode**
+**Add an Object**
 
-Viewport Shading :
+* Shift + A ⇒ Select type of Object
+* Add bar (or F9) ⇒ Adjust dimensions / resolution / location **(only available at that moment)**
+* Select other object ⇒ Dimensions  / resolution / location confirmed
 
-* Wireframe
-* Solid (default) : Light render in grey
-* Material Preview :&#x20;
-* Rendered : comme à l'export
+<figure><img src=".gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Action :&#x20;
+**Shade Smooth**
 
-* User Perspective (default) -> Camera Perspective (NumPad + 0)
-* Cusor&#x20;
-* Move : move an object
-* Rotate : rotate an object
+* Left Click ⇒ Select Object
+* Right Click ⇒ Object Menu&#x20;
+* Shade Smooth ⇒ averaging faces without more render time
 
-**Render**&#x20;
+<figure><img src=".gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-**Edit Mode**
+But the silouhette is still straigth
 
-**Sculpt Mode**
+<figure><img src=".gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
+**Subdivision Surface**
+
+* Ctrl + 1 (Keyboard)
+
+or :
+
+* Left Click ⇒ Select Object
+* Properties Tab
+* Add Modifier
+* Generate
+* Subdivision Surface
+
+<figure><img src=".gitbook/assets/Capture d&#x27;écran 2025-04-21 085844.png" alt="" width="375"><figcaption></figcaption></figure>
+
+The silouhette is now curved : (add resolutions with more faces as level raises)
+
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+
 

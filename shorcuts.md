@@ -11,6 +11,7 @@ Navigation / View :
 | Shift + Middle Mouse + Drag | Pan (around central point)   |
 | . (Numb Pad)                | Zoom on selected object      |
 | NumpPad 0                   | Camera Perspective           |
+| Tab                         | Object / Edit Mode           |
 
 Moving&#x20;
 

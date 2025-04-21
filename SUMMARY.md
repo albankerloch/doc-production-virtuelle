@@ -2,12 +2,12 @@
 
 ## Blender
 
-* [Add an Object](README.md)
-* [Modes on Blender](<README (2).md>)
-* [Render](blender/render.md)
+* [Modes on Blender](README.md)
+* [Add an Object](<README (2).md>)
 * [Camera](blender/camera.md)
 * [Material](blender/material.md)
-* [Exporter en USD](blender/exporter-en-usd.md)
+* [Render](blender/render.md)
+* [Export in USD](blender/export-in-usd.md)
 * [Create a room](<README (1).md>)
 * [Links](blender/links.md)
 
