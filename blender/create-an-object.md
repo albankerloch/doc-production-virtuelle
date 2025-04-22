@@ -56,3 +56,11 @@ Snap Target
 * Select the parent (Shift + Select)
 * Cltr + P&#x20;
 * Object (Keep Transform) : follow movement
+
+**Apply transformation (scale or rotation)**
+
+* Select object(s)
+* S + Drag Mouse
+* Type 0.1 or Ctrl to have increments
+* Enter (to confirm value)
+* Ctrl + A ⇒ Scale : apply scale "for real"
