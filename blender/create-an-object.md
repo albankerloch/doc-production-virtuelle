@@ -8,10 +8,14 @@
 
 <figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
+**Loading Reference Image**
+
+Top line ⇒ Right Click ⇒ Vertical Split ⇒ (top left corner) Image Editor ⇒ Image ⇒ Open
+
 **Shade Smooth**
 
 * Left Click ⇒ Select Object
-* Right Click ⇒ Object Menu&#x20;
+* Right Click ⇒ Object Menu
 * Shade Smooth ⇒ averaging faces without more render time
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
