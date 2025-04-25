@@ -9,6 +9,7 @@
 * [Material](blender/material.md)
 * [Create a room](<README (1).md>)
 * [Render](blender/render.md)
+* [Lighting](blender/lighting.md)
 * [Export in USD](blender/exporter-en-usd.md)
 
 ***
