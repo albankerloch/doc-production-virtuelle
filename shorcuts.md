@@ -4,7 +4,7 @@
 
 Navigation / View :
 
-| Bouton                      | Action                       |
+| Button                      | Action                       |
 | --------------------------- | ---------------------------- |
 | Scroll                      | Zoom in / out                |
 | Middle Mouse + Drag         | Orbit (around central point) |
@@ -17,17 +17,18 @@ Navigation / View :
 
 Moving Objects
 
-| Bouton                                   | Action                           |
-| ---------------------------------------- | -------------------------------- |
-| Click on object / edge / face / vertices | Objet selection (orange contour) |
-| Select + G                               | Move state (white contour)       |
-| Select + G + X (or Y or Z)               | Move only on X axis (or Y or Z)  |
-| Select + G + Middle Mouse                | Move only on one axis            |
-| Escape (or Right Click)                  | Cancel movement                  |
-| Left Click                               | Confirm movement                 |
-| Select + S                               | Scale state (white contour)      |
-| Select + R                               | Rotate state (white contour)     |
-| Select Face + E \[Edit Mode]             | Extrude : add more faces         |
+| Button                                   | Action                                           |
+| ---------------------------------------- | ------------------------------------------------ |
+| Click on object / edge / face / vertices | Objet selection (orange contour)                 |
+| Select + G                               | Move state (white contour)                       |
+| Select + G + X (or Y or Z)               | Move only on X axis (or Y or Z)                  |
+| Select + G + Middle Mouse                | Move only on one axis                            |
+| Escape (or Right Click)                  | Cancel movement                                  |
+| Left Click                               | Confirm movement                                 |
+| Select + S                               | Scale state (white contour)                      |
+| Select + R                               | Rotate state (white contour)                     |
+| Select + R + Z + Z                       | Rotate in local Z axis (for the object selected) |
+| Select + R + R                           | Rtate state with Track Hold mode                 |
 
 Create Objects
 
@@ -42,9 +43,20 @@ Create Objects
 | H                       | Hide selected vertices of an Object   |
 | Alt+H                   | Unhide selected vertices of an Object |
 
+**Edit Mode**
+
+| Button                       | Action                                         |
+| ---------------------------- | ---------------------------------------------- |
+| 1 / 2 / 3                    | Switch Vertices / Edge / Face Selection mode   |
+| F                            | Create a Face                                  |
+| C                            | Clamp Overlap (ex : bevel on overlapped edges) |
+| Select + A                   | Select All                                     |
+| Select + A + M ⇒ by distance | Merge overlapping vertices by distance         |
+| Select Face + E              | Extrude : add more faces                       |
+
 **Sculpting Mode**
 
-| Bouton    | Action                            |
+| Button    | Action                            |
 | --------- | --------------------------------- |
 | I         | Inflate Tool                      |
 | F         | Change size of the brush (radius) |
