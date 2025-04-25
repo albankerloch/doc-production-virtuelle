@@ -6,3 +6,9 @@
 
 * EEVE : real time
 * Cycles : raytracing
+
+**Exposure Adjustment**
+
+* Properties
+* Render
+* Color Management ⇒ Exposure

@@ -1,6 +1,6 @@
 # Lighting
 
-Add Sky Texture
+**Add Sky Texture**
 
 * Properties
 * World
