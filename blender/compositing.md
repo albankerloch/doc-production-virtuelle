@@ -34,3 +34,11 @@ or Render properties ⇒ Color Managment ⇒ Look : Medium High Contrast
 * Change Compositor to Always in Render option
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
+**Add Lens Distortion Node**
+
+* Ctrl + A
+* Transform ⇒ Lens Distortion
+* Click Fit
+* Distortion : 0.01
+

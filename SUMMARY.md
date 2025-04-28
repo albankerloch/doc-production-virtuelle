@@ -2,7 +2,8 @@
 
 ## Blender
 
-* [Modes on Blender](README.md)
+* [Animation](README.md)
+* [Modes on Blender](<README (2).md>)
 * [Create an Object](blender/create-an-object.md)
 * [Modifiers](blender/modifiers.md)
 * [Camera](blender/camera.md)
