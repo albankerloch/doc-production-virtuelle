@@ -1,9 +1,14 @@
 # Snapping Mode
 
-\[Preferable to use it in Wireframe mode]
+\[Wireframe mode]
 
 * Select Object
 * G
 * B
 * Select a edge (Crosshair) / middle of edge (triangle) / face (circle) / square (vertice = corner)
 * Select other point to snap (alt + middle mouse to move the camera before)
+
+\[Edit mode with Face Select Mode]
+
+* Select Face (click or click + drag)
+* Same keys but changes the shape of the object moved
