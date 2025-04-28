@@ -15,10 +15,12 @@
 * Select Camera
 * Camera Properties
 * Check Depth of field
-*
+* Select Object or Distance to have focus
 
 **Motion Blur**
 
 * Render Properties
 * Check Motion Blur
+
+**Pixar technique** : render 1st, last and middle image before full render to check for mistakes
 
