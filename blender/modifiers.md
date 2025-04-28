@@ -16,7 +16,7 @@ or :
 
 The silouhette is now curved : (add resolutions with more faces as level raises)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Apply a modifier \[Object Mode]**
 
