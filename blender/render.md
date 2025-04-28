@@ -24,5 +24,9 @@
 
 <figure><img src="../.gitbook/assets/image (13).png" alt="" width="375"><figcaption></figcaption></figure>
 
+**Exposure control**
 
+* Viewport Properties
+* Color Management
+* View Trasnform : False Color ⇒ No White or Red
 
