@@ -6,6 +6,7 @@
 * [Create an Object](blender/create-an-object.md)
 * [Modifiers](blender/modifiers.md)
 * [Camera](blender/camera.md)
+* [Snapping Mode](blender/snapping-mode.md)
 * [Material](blender/material.md)
 * [Create a room](<README (1).md>)
 * [Render](blender/render.md)
