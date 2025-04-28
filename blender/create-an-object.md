@@ -8,6 +8,13 @@
 
 <figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
+**Move a Object in Object Mode**
+
+* User Perspective (default) -> Camera Perspective (NumPad + 0)
+* Cusor&#x20;
+* Move : move an object
+* Rotate : rotate an object
+
 **Loading Reference Image**
 
 Top line ⇒ Right Click ⇒ Vertical Split ⇒ (top left corner) Image Editor ⇒ Image ⇒ Open

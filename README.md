@@ -14,17 +14,13 @@
 * Material Preview : Rendered with HDRI lighting
 * Rendered : as exported
 
-**Action**
-
-* User Perspective (default) -> Camera Perspective (NumPad + 0)
-* Cusor&#x20;
-* Move : move an object
-* Rotate : rotate an object
-
-Windows
+**Windows**
 
 * Layout (defaut)
-* Shading : to&#x20;
+* Texture Paint
+* Shading : for material
+* Compositing (click Use Nodes)
+* Geometry nodes : for procedural shapes
 
 
 
