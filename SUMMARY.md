@@ -11,6 +11,7 @@
 * [Material](blender/material.md)
 * [Create a room](<README (1).md>)
 * [Render](blender/render.md)
+* [Video Editing](blender/video-editing.md)
 * [Lighting](blender/lighting.md)
 * [Animation](<README (2).md>)
 * [Export in USD](blender/exporter-en-usd.md)
