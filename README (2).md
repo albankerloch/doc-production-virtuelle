@@ -1,5 +1,14 @@
 # Modes on Blender
 
+**Windows**
+
+* Layout (defaut)
+* Texture Paint
+* Shading : for material
+* Animation : for detailed animation timeline
+* Compositing (click Use Nodes)
+* Geometry nodes : for procedural shapes
+
 **Modes**&#x20;
 
 * Object Mode : See Object as Rendered, Move them
@@ -14,13 +23,7 @@
 * Material Preview : Rendered with HDRI lighting
 * Rendered : as exported
 
-**Windows**
 
-* Layout (defaut)
-* Texture Paint
-* Shading : for material
-* Compositing (click Use Nodes)
-* Geometry nodes : for procedural shapes
 
 
 
