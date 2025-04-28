@@ -1,6 +1,8 @@
 # Render
 
-**Render Image** : F12
+**Render Image** : F12 or Render  ⇒ Render Image
+
+Render Animation : Render ⇒ Render Animation
 
 **Render Engine**
 
