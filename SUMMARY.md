@@ -2,8 +2,7 @@
 
 ## Blender
 
-* [Animation](README.md)
-* [Modes on Blender](<README (2).md>)
+* [Modes on Blender](README.md)
 * [Create an Object](blender/create-an-object.md)
 * [Modifiers](blender/modifiers.md)
 * [Camera](blender/camera.md)
@@ -13,6 +12,7 @@
 * [Create a room](<README (1).md>)
 * [Render](blender/render.md)
 * [Lighting](blender/lighting.md)
+* [Animation](<README (2).md>)
 * [Export in USD](blender/exporter-en-usd.md)
 
 ***

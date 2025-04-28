@@ -1,18 +1,29 @@
-# Animation
+# Modes on Blender
 
-**Create animation**
+**Windows**
 
-* Select the camera
-* Click I (insert Keyframe)
-* Move the timeline (bottom panel in Layout)
-* Move the camera
-* Click I
+* Layout (defaut)
+* Texture Paint
+* Shading : for material
+* Animation : for detailed animation timeline
+* Compositing (click Use Nodes)
+* Geometry nodes : for procedural shapes
 
-**Create camera rotation**
+**Modes**&#x20;
 
-* Shift + Rigth Click : select center of rotation
-* Shift + A ⇒ Empty : create an empty
-* Select Camera then Empty (Shift)
-* Ctrl + P ⇒ Keep Transform
-* Select Empty + R : Rotate the empty ⇒ Camera moves also
+* Object Mode : See Object as Rendered, Move them
+* Edit Mode : Change Vertices by selecting them
+* Sculpt Mode : Change Vertices organicaly
+* Weight Paint : Mask for Mesh (value between 0 and 1 on it)
+
+**Viewport Shading**
+
+* Wireframe
+* Solid (default) : Light render in grey
+* Material Preview : Rendered with HDRI lighting
+* Rendered : as exported
+
+
+
+
 
