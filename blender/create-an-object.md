@@ -29,7 +29,7 @@ Top line ⇒ Right Click ⇒ Vertical Split ⇒ (top left corner) Image Editor �
 
 But the silouhette is still straigth ⇒ use Subdivision Modifier
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Proportional Editing \[Edit Mode]**
 
