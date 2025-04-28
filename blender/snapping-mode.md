@@ -10,5 +10,10 @@
 
 \[Edit mode with Face Select Mode]
 
-* Select Face (click or click + drag)
+* Select a Face (click or click + drag)&#x20;
+
+(Upper face of a cube for diminishing / Left face of a cube for narrowing)&#x20;
+
 * Same keys but changes the shape of the object moved
+
+If the Face is just moving (without deformation) ⇒ Edge Select mode

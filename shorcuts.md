@@ -53,6 +53,7 @@ Create Objects
 | Select + A                   | Select All                                     |
 | Select + A + M ⇒ by distance | Merge overlapping vertices by distance         |
 | Select Face + E              | Extrude : add more faces                       |
+| Select Face + I              | Insect (ex : Window)                           |
 
 **Sculpting Mode**
 

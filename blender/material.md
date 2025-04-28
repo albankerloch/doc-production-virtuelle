@@ -49,3 +49,12 @@
 * Change Paint to approriate color (and strengh)
 * Paint on either side (UV unwrapping or Viewport)
 * Click on Image (on left side) ⇒ Save as
+
+**Assign Material to a Face  \[Edit Mode with Face Select Mode]**
+
+* Select a Face
+* Properties ⇒ Material
+* Select desired material
+* Click Assign
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
