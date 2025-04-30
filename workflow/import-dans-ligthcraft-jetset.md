@@ -1,8 +1,17 @@
 # Import dans Ligthcraft Jetset
 
+**Iphone**
+
+* Ouvrir l'application Ligthcraft Jetset
+* Ouvrir les paramètres
+* Cliquer sur les ... à côté de PROJECT
+* Cliquer sur +
+* Modifier le nom et l'extension du nouveau projet
+* Cliquer sur Save
+
 **Windows**
 
-* Créer un dossier dans l'explorateur avec le nom du Projet
+* Créer un dossier dans l'explorateur avec le nom du projet
 * Ouvrir AutoShot
 * Dans Project Folder, cliquer sur Browser puis rechercher le dossier créé
 
@@ -31,3 +40,13 @@
 * Dans Autoshot, cliquer sur le modèle USDZ puis sur Push to File to Jetset
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+**Iphone**
+
+* Cliquer sur Pamètres
+* Cliquer sur MODEL
+* Cliquer sur Open...
+* Sélectionner l'USDZ transféré précédement
+
+
+
