@@ -28,4 +28,5 @@
 
 ## Workflow
 
-* [Import dans Ligthcraft Jetset](workflow/import-dans-ligthcraft-jetset.md)
+* [Importer dans Ligthcraft Jetset](workflow/importer-dans-ligthcraft-jetset.md)
+* [Positionner la caméra](workflow/positionner-la-camera.md)
