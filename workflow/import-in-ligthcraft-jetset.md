@@ -2,16 +2,16 @@
 description: 'to do : importer image dans lightcraft + utiliser Icloud'
 ---
 
-# Importer dans Ligthcraft Jetset
+# Import in Ligthcraft Jetset
 
 **Iphone**
 
-* Ouvrir l'application Ligthcraft Jetset
-* Ouvrir les paramètres
-* Cliquer sur les ... à côté de PROJECT
-* Cliquer sur +
-* Modifier le nom et l'extension du nouveau projet
-* Cliquer sur Save
+* Open the app Ligthcraft Jetset
+* Parameter
+* Click on  ... next to PROJECT
+* Click on +
+* Change the name and the extension for the new project
+* Save
 
 **Windows**
 
@@ -47,10 +47,10 @@ description: 'to do : importer image dans lightcraft + utiliser Icloud'
 
 **Iphone**
 
-* Cliquer sur Pamètres
-* Cliquer sur MODEL
-* Cliquer sur Open...
-* Sélectionner l'USDZ transféré précédement
+* Pameter
+* MODEL
+* Open...
+* Select the USDZ transfered before
 
 
 

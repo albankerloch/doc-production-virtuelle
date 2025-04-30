@@ -1,4 +1,4 @@
-# Positionner la caméra
+# Set the camera
 
 **IPhone**
 
@@ -13,14 +13,12 @@
 * OK
 * (Rotate 180° for positioning with image reference)
 
-**Reset the Viewpoint**
-
-* Arrow icon (right middle)
-* start\_slider\_01
-
 **Display Image reference**
 
 * Main (left up)
+* Parameters
+* MODEL
+* Clear model
 * Image Model
 * Import (right middle)
 * Select the image reference
@@ -30,4 +28,14 @@
 
 * Pintch to scale
 * Find the right spot (with Iphone attached to a tripod)
+* Record
+
+**Record with Blender model**
+
+* Parameters
+* MODEL
+* Open...
+* Select structure\_cadre.usdz
+* Arrow icon (right middle)
+* start\_slider\_01
 * Record
