@@ -6,7 +6,7 @@
 * Compositing windows : Ctrl + Shift + Left click on Render Layer
 * Alt + Middle Mouse to move the rendered image
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Add Color Management Node**
 
@@ -33,7 +33,7 @@ or Render properties ⇒ Color Managment ⇒ Look : Medium High Contrast
 * Change down tab to 3D Viewport
 * Change Compositor to Always in Render option
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Add Lens Distortion Node**
 

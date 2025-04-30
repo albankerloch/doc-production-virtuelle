@@ -16,15 +16,15 @@ or :
 
 The silouhette is now curved : (add resolutions with more faces as level raises)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Apply a modifier \[Object Mode]**
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="297"><figcaption><p>Apply a modifier permanantly (affect vertices)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="297"><figcaption><p>Apply a modifier permanantly (affect vertices)</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="188"><figcaption><p>before</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="188"><figcaption><p>before</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="188"><figcaption><p>after</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="188"><figcaption><p>after</p></figcaption></figure>
 
 **Solidify Modifier**
 
