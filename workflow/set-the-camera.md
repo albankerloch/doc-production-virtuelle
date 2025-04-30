@@ -28,6 +28,7 @@
 
 * Pintch to scale
 * Find the right spot (with Iphone attached to a tripod)
+* Note the position compared to the walls
 * Record
 
 **Record with Blender model**

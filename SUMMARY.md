@@ -30,3 +30,5 @@
 
 * [Import in Ligthcraft Jetset](workflow/import-in-ligthcraft-jetset.md)
 * [Set the camera](workflow/set-the-camera.md)
+* [Import shots in Blender](workflow/import-shots-in-blender.md)
+* [Blender](workflow/blender.md)
