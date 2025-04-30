@@ -15,33 +15,34 @@ description: 'to do : importer image dans lightcraft + utiliser Icloud'
 
 **Windows**
 
-* Créer un dossier dans l'explorateur avec le nom du projet
-* Ouvrir AutoShot
-* Dans Project Folder, cliquer sur Browser puis rechercher le dossier créé
+* Create a folder in the explorer with the name of the project
+* Openr AutoShot
+* In Project Folder, click on Browser puis rechercher le dossier créé
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-* Dans Project Folder, cliquer sur Open : ouvre l'explorateur et créée 3 dossiers (Assets/Footage/Sequence) et fichier projectsettings à la racine
-* Ajouter au dossier Assets :&#x20;
-  * L'image de référence du plan à faire
-  * Le projet blender de la structure cadre
-* Créer deux sous-dossiers dans le dossier Assets : USD et USDZ
-* Ouvrir le projet blender avec Blender
-* Dans Blender, Exporter le projet en USD : File ⇒ Export ⇒ USD\* ⇒ Save (dans le sous-dossier USD)
-* Dans AutoShot, dans l'onglet Models, cliquer sur le bouton Set à côté de USD Model Temp Folder et sélectionner le sous-dossier USD créé précédemment
+* Dans Project Folder, click on  Open : it opens the explorer and creates 3 folders (Assets/Footage/Sequence) and a file projectsettings
+* Add on the folder Assets :&#x20;
+  * the Image Reference for the shot to make
+  * the Blender project for the structure
+* Create two subfolders in the folder Assets : USD and USDZ
+* Open the Blender project for the structure with Blender
+* Install the Blender add-on (see [https://lightcraft.pro/tutorials/2-01-autoshot-blender-round-trip/](https://lightcraft.pro/tutorials/2-01-autoshot-blender-round-trip/))
+* In Blender, export in USD : File ⇒ Export ⇒ USD\* ⇒ Save (dans le sous-dossier USD)
+* IN AutoShot, on the Models tab, click on Set next to USD Model Temp Folder and select the subfolder USD created before :
 
 <figure><img src="../.gitbook/assets/image (2).png" alt="" width="217"><figcaption></figcaption></figure>
 
-* Cliquer sur le bouton Set à côté de Local USDZ Model Temp Folder et sélectionner le sous-dossier USDZ créé précédemment
-*   Sélectionner le fichier USDC qui s'affiche dans la section USD puis cliquer sur Make USDZ
+* Click on Set next to Local USDZ Model Temp Folder  and select the subfolder USDZ created before
+*   Select the file USDC that is displayed in the USD section then click on Make USDZ
 
     <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>un fichier USDZ sera alors créé dans le sous-dossier USDZ</p></figcaption></figure>
-* Ouvrir l'application Ligthcraft Jetset sur Iphone
-* Dans Autoshot, vous verrez apparaître votre Iphone :
+* Open the Ligthcraft Jetset app on Iphone
+* In Autoshot, you'll see now your Iphone :
 
 <figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
-* Dans Autoshot, cliquer sur le modèle USDZ puis sur Push to File to Jetset
+* In Autoshot, click on the USDZ model then click on Push to File to Jetset
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
