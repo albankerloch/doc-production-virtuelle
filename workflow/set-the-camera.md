@@ -11,7 +11,7 @@
 * Tap on the floor to set Origin
 * Align to Marker
 * OK
-* (Rotate 180° for positioning with image reference)
+* Rotate 180° for positioning with image reference
 
 **Display Image reference**
 
@@ -29,10 +29,20 @@
 * Pintch to scale
 * Find the right spot (with Iphone attached to a tripod)
 * Note the position compared to the walls
-* Record
+
+**Reset the origin** (as described before - without 180° rotation)
+
+**Scan the room**
+
+* Menu Scan
+* Start
+* Stop
+
+**Set Green Screen** (if needed)
 
 **Record with Blender model**
 
+* Put the Iphone back on the tripod
 * Parameters
 * MODEL
 * Open...
