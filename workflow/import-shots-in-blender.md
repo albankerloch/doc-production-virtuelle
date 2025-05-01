@@ -1,11 +1,14 @@
 # Import shots in Blender
 
+**Windows**
+
+* With the Lightcraft Jetset app opended on IPhone, click on Sync in Autoshot :
+
 ![](<../.gitbook/assets/image (15).png>)
 
-* With the Lightcraft Jetset app opended on IPhone, click on Sync in Autoshot
 * On the Run Values section, choose Blender and click on Pick Executable and select the exe in :
-  * C:\Program Files (x86)\Steam\steamapps\common\Blender (if installed with Steam)
-  * or C:\Program Files (x86)\Blender Foundation\Blender 4.1
+* C:\Program Files (x86)\Steam\steamapps\common\Blender (if installed with Steam)
+* or C:\Program Files (x86)\Blender Foundation\Blender 4.1
 * Install the blender add-on of Ligthcraft Autoshot :&#x20;
   * Edit
   * Preferences
