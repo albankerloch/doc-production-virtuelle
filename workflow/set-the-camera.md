@@ -19,6 +19,7 @@
 * Parameters
 * MODEL
 * Clear model
+* Main
 * Image Model
 * Import (right middle)
 * Select the image reference
@@ -37,6 +38,8 @@
 * Menu Scan
 * Start
 * Stop
+* Solid
+* Hide
 
 **Set Green Screen** (if needed)
 
