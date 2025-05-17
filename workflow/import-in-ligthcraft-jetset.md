@@ -16,14 +16,14 @@ description: 'to do : importer image dans lightcraft + utiliser Icloud'
 **Windows**
 
 * Create a folder in the explorer with the name of the project
-* Openr AutoShot
+* Open AutoShot
 * In Project Folder, click on Browser puis rechercher le dossier créé
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * Dans Project Folder, click on  Open : it opens the explorer and creates 3 folders (Assets/Footage/Sequence) and a file projectsettings
 * Add on the folder Assets :&#x20;
-  * the Image Reference for the shot to make
+  * the Image(s) Reference(s) for the shot to make
   * the Blender project for the structure
 * Create two subfolders in the folder Assets : USD and USDZ
 * Open the Blender project for the structure with Blender
