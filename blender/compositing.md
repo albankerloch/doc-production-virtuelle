@@ -6,7 +6,7 @@
 * Compositing windows : Ctrl + Shift + Left click on Render Layer
 * Alt + Middle Mouse to move the rendered image
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Add Color Management Node**
 
