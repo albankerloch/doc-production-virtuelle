@@ -1,5 +1,13 @@
 # Blender
 
+**Cut the video**
+
+Type the Start and End of the desired part of the video
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+
+
 **Fix the video plane**
 
 * Select the video plane in the Scene Collection
