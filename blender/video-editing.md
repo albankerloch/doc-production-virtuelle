@@ -5,6 +5,7 @@
 * File ⇒ New ⇒ Video Editing
 * Shift + A ⇒ Image Sequence&#x20;
 * Go to the rendered image folder ⇒ A : select all rendered images
+* Add Image Strip
 
 **Add Fade at the end**
 
