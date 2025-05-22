@@ -4,7 +4,7 @@
 
 * File ⇒ New ⇒ Video Editing
 * Shift + A ⇒ Image Sequence&#x20;
-* Go to folider ⇒ A : select all rendered images
+* Go to the rendered image folder ⇒ A : select all rendered images
 
 **Add Fade at the end**
 
