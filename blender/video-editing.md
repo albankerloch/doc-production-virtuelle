@@ -3,7 +3,8 @@
 **Open New instance of Blender for video editing**
 
 * File ⇒ New ⇒ Video Editing
-* Shift + A ⇒ Image Sequence : select all rendered images
+* Shift + A ⇒ Image Sequence&#x20;
+* Go to folider ⇒ A : select all rendered images
 
 **Add Fade at the end**
 
