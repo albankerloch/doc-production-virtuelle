@@ -26,6 +26,10 @@
 * [Create a projet](ligthcraft-jetset/creer-un-projet.md)
 * [Links](ligthcraft-jetset/links.md)
 
+## DaVinci Resolve
+
+* [Links](davinci-resolve/links.md)
+
 ## Workflow
 
 * [Import in Ligthcraft Jetset](workflow/import-in-ligthcraft-jetset.md)
