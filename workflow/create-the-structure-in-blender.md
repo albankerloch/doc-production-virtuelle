@@ -6,4 +6,5 @@
 * Snap the cube to the floor (G + Z)
 * Go into the cube (scroll)
 * Bring the camera into the cube (Ctrl + Alt + 0)
+* Level the rotation of the camera (N  + Rotation : X = 90, Y = Z = 0)
 
