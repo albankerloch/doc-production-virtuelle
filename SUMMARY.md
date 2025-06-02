@@ -32,6 +32,7 @@
 
 ## Workflow
 
+* [Create  the structure in Blender](workflow/create-the-structure-in-blender.md)
 * [Import in Ligthcraft Jetset](workflow/import-in-ligthcraft-jetset.md)
 * [Set the camera](workflow/set-the-camera.md)
 * [Import shots in Blender](workflow/import-shots-in-blender.md)
