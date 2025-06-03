@@ -38,3 +38,7 @@
 * [Import shots in Blender](workflow/import-shots-in-blender.md)
 * [Set up in Blender](workflow/set-up-in-blender.md)
 * [Export from Blender](workflow/export-from-blender.md)
+
+***
+
+* [Compositing in Da Vinci Resolve](compositing-in-da-vinci-resolve.md)
