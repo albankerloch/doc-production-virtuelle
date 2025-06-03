@@ -8,3 +8,19 @@
 * Bring the camera into the cube (Ctrl + Alt + 0)
 * Level the rotation of the camera (N  + Rotation : X = 90, Y = Z = 0)
 
+Add a reference image
+
+Shape the windows
+
+Add a sky
+
+Add colors
+
+Add objects
+
+Add points
+
+
+
+
+
