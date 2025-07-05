@@ -36,9 +36,11 @@
 * [Import in Ligthcraft Jetset](workflow/import-in-ligthcraft-jetset.md)
 * [Set the camera](workflow/set-the-camera.md)
 * [Import shots in Blender](workflow/import-shots-in-blender.md)
-* [Set up in Blender](workflow/set-up-in-blender.md)
-* [Export from Blender](workflow/export-from-blender.md)
+* [Create the structure in Blender](workflow/create-the-structure-in-blender-1.md)
+* [Export structure from Blender](workflow/export-structure-from-blender.md)
 
 ***
 
+* [Camera tracking in Da Vinci Resolve](camera-tracking-in-da-vinci-resolve.md)
+* [Export final set from Blender](export-final-set-from-blender.md)
 * [Compositing in Da Vinci Resolve](compositing-in-da-vinci-resolve.md)
