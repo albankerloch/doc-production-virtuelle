@@ -24,9 +24,13 @@ Click Auto Track
 
 Go to Solve Tab, click Solve
 
-Delete AutoTrack Locations if Average < 1 pixel (Operations on Selected Tracks)
+Delete AutoTrack Locations if Average < 1 pixel (Apply Track Selection Filters ⇒ Operations on Selected Tracks ⇒ Delete)
 
-Go to Export tab, click&#x20;
+Go to Export tab, click on Unaligned
+
+Select AutoTrack Locations on the floor ⇒ Orientation : Set From Selection
+
+Select AutoTrack Locations at the origin ⇒ Origin : Set From Selection
 
 
 
