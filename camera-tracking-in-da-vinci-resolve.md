@@ -10,13 +10,13 @@ Create a timeline with the footage
 
 ~~Cut the footage in the Cut Mode~~
 
-**Fusion Mode**
+**Fusion Mode : create 3D space**
 
 Position the start and the end of the scene
 
 <figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-Add Tool ⇒ Tracking ⇒ Camera Tracking
+Add Tool ⇒ Tracking ⇒ Camera Tracker
 
 If needed add a mask before
 
@@ -36,7 +36,27 @@ Select AutoTrack Locations on the floor ⇒ Orientation : Set From Selection
 
 Select AutoTrack Locations at the origin ⇒ Origin : Set From Selection
 
+If needed, set Z Rotation manually to 0
+
 Click on Export
+
+Merge3D ⇒ view on Left ⇒ Right Click ⇒ Camera ⇒ Camera3D
+
+**Fusion Mode : add a shape**
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Drag the 3D shape to the nodes part
+
+Link the shape with the Merge3D
+
+Adjust the type and size of the shape
+
+Adjust the placement of the shape
+
+**Fusion Mode : export in FBX**
+
+Add Tool ⇒ Tracking ⇒ Camera Tracker
 
 
 

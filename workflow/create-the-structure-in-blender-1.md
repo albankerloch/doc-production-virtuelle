@@ -1,4 +1,4 @@
-# Blender
+# Create the structure in Blender
 
 **Cut the video**
 
@@ -25,4 +25,4 @@ Type the Start and End of the desired part of the video
 * Fix the position in the middle (where is needed - for Y and X)
 * Check by rolling the whole animation
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
