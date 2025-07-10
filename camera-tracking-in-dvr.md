@@ -1,4 +1,4 @@
-# Camera tracking in Da Vinci Resolve
+# Camera tracking in DVR
 
 **Media Mode**
 
@@ -6,11 +6,15 @@ Add the footage to the Media Pool
 
 Create a timeline with the footage
 
-**Cut Mode**
+~~**Cut Mode**~~
 
-Cut the footage in the Cut Mode
+~~Cut the footage in the Cut Mode~~
 
 **Fusion Mode**
+
+Position the start and the end of the scene
+
+<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 Add Tool ⇒ Tracking ⇒ Camera Tracking
 
@@ -20,7 +24,7 @@ Tick Preview AutoTrack Locations and Bidirectional Tracking
 
 Decrease Detection Threshold, Min Feature Separation to get more AutoTrack Locations
 
-Click Auto Track
+Click on Auto Track
 
 Go to Solve Tab, click Solve
 
@@ -31,6 +35,8 @@ Go to Export tab, click on Unaligned
 Select AutoTrack Locations on the floor ⇒ Orientation : Set From Selection
 
 Select AutoTrack Locations at the origin ⇒ Origin : Set From Selection
+
+Click on Export
 
 
 

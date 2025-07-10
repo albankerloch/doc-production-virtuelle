@@ -41,6 +41,6 @@
 
 ***
 
-* [Camera tracking in Da Vinci Resolve](camera-tracking-in-da-vinci-resolve.md)
+* [Camera tracking in DVR](camera-tracking-in-dvr.md)
 * [Export final set from Blender](export-final-set-from-blender.md)
-* [Compositing in Da Vinci Resolve](compositing-in-da-vinci-resolve.md)
+* [Compositing in DVR](compositing-in-dvr.md)
