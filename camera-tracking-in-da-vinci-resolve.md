@@ -58,5 +58,13 @@ Adjust the placement of the shape
 
 Add Tool ⇒ Tracking ⇒ Camera Tracker
 
+Save the file in a folder
+
+Disconnect CameraTracker to MediaOut
+
+Fusion ⇒ Render all savers
+
+If needed restart DVR
+
 
 
