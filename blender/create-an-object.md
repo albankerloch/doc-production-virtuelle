@@ -6,7 +6,7 @@
 * Add bar (or F9) ⇒ Adjust dimensions / resolution / location **(only available at that moment)**
 * Select other object ⇒ Dimensions  / resolution / location confirmed
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Move a Object in Object Mode**
 
@@ -25,11 +25,11 @@ Top line ⇒ Right Click ⇒ Vertical Split ⇒ (top left corner) Image Editor �
 * Right Click ⇒ Object Menu
 * Shade Smooth ⇒ averaging faces without more render time
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 But the silouhette is still straigth ⇒ use Subdivision Modifier
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Proportional Editing \[Edit Mode]**
 
@@ -59,7 +59,7 @@ Snap Target
 * Face : snap only the selected vertex
 * Face projected : snap all the faces affected by the movement
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Group two objects**
 

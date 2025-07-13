@@ -19,7 +19,7 @@ description: 'to do : importer image dans lightcraft + utiliser Icloud'
 * Open AutoShot
 * In Project Folder, click on Browser puis rechercher le dossier créé
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Dans Project Folder, click on  Open : it opens the explorer and creates 3 folders (Assets/Footage/Sequence) and a file projectsettings
 * Add on the folder Assets :&#x20;
@@ -31,12 +31,12 @@ description: 'to do : importer image dans lightcraft + utiliser Icloud'
 * In Blender, export in USD : File ⇒ Export ⇒ USD\* ⇒ Save (dans le sous-dossier USD)
 * IN AutoShot, on the Models tab, click on Set next to USD Model Temp Folder and select the subfolder USD created before :
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="217"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="217"><figcaption></figcaption></figure>
 
 * Click on Set next to Local USDZ Model Temp Folder  and select the subfolder USDZ created before
 *   Select the file USDC that is displayed in the USD section then click on Make USDZ
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>un fichier USDZ sera alors créé dans le sous-dossier USDZ</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>un fichier USDZ sera alors créé dans le sous-dossier USDZ</p></figcaption></figure>
 * Open the Ligthcraft Jetset app on Iphone
 * In Autoshot, you'll see now your Iphone :
 
