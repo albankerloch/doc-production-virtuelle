@@ -75,3 +75,8 @@ Snap Target
 * Type 0.1 or Ctrl to have increments
 * Enter (to confirm value)
 * Ctrl + A ⇒ Scale : apply scale "for real"
+
+**Center the view on the selected Object :**&#x20;
+
+* Numpad .
+* View > Frame Selected
