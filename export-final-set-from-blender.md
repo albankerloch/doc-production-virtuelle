@@ -21,7 +21,13 @@ Select the camera, in camera properties :
 
 <figure><img src=".gitbook/assets/image (2).png" alt="" width="326"><figcaption></figcaption></figure>
 
-Select all elements imported ⇒ S + Ctrl (scale)
+**Adapt the camera to the environement (trial and error)**
 
-Select all elements imported ⇒ G + Z (set at ground level)
+* Ctrl+ A : Add Empty ⇒ Plain Axe
+* Select all elements imported + Empty
+* Unselect Empty
+* Reselect Empty
+* Ctrl + P : Parent
+* Scale Empty ⇒ S + Ctrl (scale)
+* Move Empty⇒ G + Z (set at ground level)
 
