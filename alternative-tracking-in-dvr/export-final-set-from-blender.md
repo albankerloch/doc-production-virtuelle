@@ -34,6 +34,6 @@ Select the camera, in camera properties :
 **Export the EXR**
 
 * Set View
-* Set the format and folder of the output
+* Set the format, frame rate and folder of the output
 * Render ⇒ Render Animation
 
