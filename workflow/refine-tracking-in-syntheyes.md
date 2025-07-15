@@ -89,5 +89,33 @@ Check if the focal is ok between AutoShot and SynthEyes
 
 If not, click on 24.900 x 14.006 mm to change manually the sensor size (depending on the camera)
 
+**Lense Distortion**
+
+Click Calc. Distortion
+
+Click on more
+
+In the pop-in, select Radial 4rth-order
+
+Click on C2 and V2 to be set to Calculate
+
+Close the pop-in and click on Go (Green Button) to refine
+
+If the error is not raising, click on C4 and V4 to be set to Calculate and Go again
+
+**Lens Worflow**
+
+Click on the Lense Worklow Button
+
+Select&#x20;
+
 **Export**
+
+File ⇒ Export ⇒ Blender (Python)
+
+Set Rescale scene to 0.01 (Synth centimeter and Blender in meter
+
+Set Track to 5
+
+Change the Blender executable with the Pick Executable in AutoShot
 
