@@ -6,15 +6,21 @@ Add the footage to the Media Pool
 
 Create a timeline with the footage
 
-~~**Cut Mode**~~
+Create proxy (to be used in Blender after) :
 
-~~Cut the footage in the Cut Mode~~
+* File ⇒ Media Management
+* Chose Destination location for proxy
+* Check Selected media ppol clips
+* Check Relink to new files
+* Transcode : select Video format DNxHR&#x20;
+* select Codec DNxHR HQ
+* Click Start
 
 **Fusion Mode : create 3D space**
 
 Position the start and the end of the scene
 
-<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 Add Tool ⇒ Tracking ⇒ Camera Tracker
 
@@ -44,7 +50,7 @@ Merge3D ⇒ view on Left ⇒ Right Click ⇒ Camera ⇒ Camera3D
 
 **Fusion Mode : add a shape**
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Drag the 3D shape to the nodes part
 

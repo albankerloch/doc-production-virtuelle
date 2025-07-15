@@ -8,18 +8,18 @@ Add a view Camera : click on the upper rigth corner of the main view and drag in
 
 In scene properties, select Camera3D1 as Camera
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="340"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="340"><figcaption></figcaption></figure>
 
 Select the camera, in camera properties :
 
 * Set the Focal length with the focal length value found in DVR
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="343"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="343"><figcaption></figcaption></figure>
 
 * Set the Clip End at 99 m (won't desapear)
 * Add a Background Image (Movie Clip ⇒ open the proxy created before)
 
-<figure><img src=".gitbook/assets/image (2).png" alt="" width="326"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="326"><figcaption></figcaption></figure>
 
 **Adapt the camera to the environement (trial and error)**
 

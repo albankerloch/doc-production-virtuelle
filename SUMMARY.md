@@ -39,8 +39,8 @@
 * [Create the structure in Blender](workflow/create-the-structure-in-blender-1.md)
 * [Export structure from Blender](workflow/export-structure-from-blender.md)
 
-***
+## Alternative : tracking in DVR
 
-* [Camera tracking in DVR](camera-tracking-in-da-vinci-resolve.md)
-* [Export final set from Blender](export-final-set-from-blender.md)
-* [Compositing in DVR](compositing-in-da-vinci-resolve.md)
+* [Camera tracking in DVR](alternative-tracking-in-dvr/camera-tracking-in-dvr.md)
+* [Export final set from Blender](alternative-tracking-in-dvr/export-final-set-from-blender.md)
+* [Compositing in DVR](alternative-tracking-in-dvr/compositing-in-dvr.md)
