@@ -31,3 +31,9 @@ Select the camera, in camera properties :
 * Scale Empty ⇒ S + Ctrl (scale)
 * Move Empty⇒ G + Z (set at ground level)
 
+**Export the EXR**
+
+* Set View
+* Set the format and folder of the output
+* Render ⇒ Render Animation
+
