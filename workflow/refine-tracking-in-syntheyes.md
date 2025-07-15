@@ -81,5 +81,13 @@ Repeat with Maj + C ⇒ High-error Trackers (15.000)
 
 Error must be < 1 HPIX
 
+**Focal Length**
+
+Check if the focal is ok between AutoShot and SynthEyes
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
+If not, click on 24.900 x 14.006 mm to change manually the sensor size (depending on the camera)
+
 **Export**
 
