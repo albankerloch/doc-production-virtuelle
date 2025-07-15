@@ -1,2 +1,85 @@
 # Refine tracking in SynthEyes
 
+**Installing Inspyrenet**
+
+Download from [https://lightcraft.pro/downloads/](https://lightcraft.pro/downloads/)
+
+Extract to C:\Program Files\Lightcraft Technology
+
+**AutoShot : Generate SynthEyes Script**
+
+Run Values section :
+
+* Program = Others
+* Camera Media = Extracted EXRs
+* Clip In Frame = \<start frame>
+* Clip Out Frame = \<end frame>
+* AI Roto Model = INSPYRENET
+
+Click on Save & Run
+
+Click to the path "Syntheyes script exported to" on the console
+
+Copy the path from the explorer
+
+**SynthEyes tracking**
+
+Open SynthEyes
+
+Script ⇒ Run Script ⇒ paste the path ⇒ click on the script
+
+Save as ⇒ save SynthEyes file (.sni)
+
+Click Rotomask (bar bellow)
+
+Shot ⇒ Edit Shot ⇒ set up ending frame (and starting frame if needed)
+
+~~Click Auto (Green button)~~
+
+**Syntheyes Feature Settings**
+
+Click on Feature (tab in the upper part)
+
+Click on Advanced (button on the left part)
+
+Click on Auto Re-blip (to see the points)
+
+Change Small bits size and Max bits size (12 / 24)
+
+Click on Bits all frames (button on the left part)
+
+Click on Peel All (button on the left part)
+
+Get Medium Points :&#x20;
+
+* Change  Small bits size and Max bits size (16 / 32)&#x20;
+* repeat (Bits all frames + Peel All) = keeps the best points
+
+Change Large Points :
+
+* Small bits size and Max bits size (20 / 40)
+* repeat (Bits all frames + Peel All)
+
+**Creating Survey Data**
+
+If Set Lidar, can link the points to the mesh
+
+**Solve the tracking**
+
+On Solve tab, click Go (Green button)
+
+Disable bad trackers :&#x20;
+
+* Maj + C
+* Click on Bad Frames ⇒ Disable
+
+Change Automatic to Refine (bellow Go button)
+
+Click on Go again
+
+Repeat with Maj + C ⇒ High-error Trackers (15.000)
+
+Error must be < 1 HPIX
+
+**Export**
+
