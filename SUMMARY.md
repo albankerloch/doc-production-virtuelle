@@ -36,7 +36,7 @@
 * [Import in Ligthcraft Jetset](workflow/import-in-ligthcraft-jetset.md)
 * [Set the camera](workflow/set-the-camera.md)
 * [Import shots in Blender](workflow/import-shots-in-blender.md)
-* [Refine tracking in SynthEyes](workflow/refine-tracking-in-syntheyes.md)
+* [GeoTracker in Blender](workflow/geotracker-in-blender.md)
 * [Create the structure in Blender](workflow/create-the-structure-in-blender-1.md)
 * [Export structure from Blender](workflow/export-structure-from-blender.md)
 
@@ -44,8 +44,12 @@
 
 * [Compositing in DVR](compositing-in-dvr.md)
 
-## Alternative : tracking in DVR
+## Tracking in DVR
 
-* [Camera tracking in DVR](alternative-tracking-in-dvr/camera-tracking-in-dvr.md)
-* [Export final set from Blender](alternative-tracking-in-dvr/export-final-set-from-blender.md)
-* [Compositing in DVR](alternative-tracking-in-dvr/compositing-in-dvr.md)
+* [Camera tracking in DVR](tracking-in-dvr/camera-tracking-in-dvr.md)
+* [Export final set from Blender](tracking-in-dvr/export-final-set-from-blender.md)
+* [Compositing in DVR](tracking-in-dvr/compositing-in-dvr.md)
+
+## Tracking with SynthEyes
+
+* [Refine tracking in SynthEyes](tracking-with-syntheyes/refine-tracking-in-syntheyes.md)

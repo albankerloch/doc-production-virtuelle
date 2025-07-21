@@ -17,9 +17,16 @@
   * Tick the box
 * Next to Scene Blend file, click on Set and select the blender project on the Assets folder
 * Choose the options needed :&#x20;
-  * Append Scene (copy orginal project) or Linked Scene (if lot of scenes : for production)
-  * Original File or PNG or EXR
-  * AI Roto Model (if needed)
+  * Generated Blend File :&#x20;
+    * Empty Comp Start
+    * Append Scene (copy orginal project)
+    * Linked Scene (if lot of scenes : for production)
+  * Camera Media :&#x20;
+    * Original File
+    * PNG
+    * EXR
+  * Clip In Frame / Clip Out Frame (open shot in DVR to check frames needed)
+  * AI Roto Model (INSPYRENET slow but better to isolate persons)
   * Import Set LiDAR (if a scan was done)
   * Set Depth (plane to camera)
 * Click on Save & Run (it'll open Blender)
