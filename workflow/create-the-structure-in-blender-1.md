@@ -14,9 +14,7 @@ Type the Start and End of the desired part of the video
 
 <figure><img src="../.gitbook/assets/image (16).png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Add the image reference**
-
-**Fix the camera position**
+**Adjust the camera tracking manually**
 
 * Select the camera
 * On properties, clear keyframes for location and rotation and camera properties (Focal Length, Shift X, Y)
