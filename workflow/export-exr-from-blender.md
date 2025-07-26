@@ -1,4 +1,4 @@
-# Export structure from Blender
+# Export EXR from Blender
 
 **Check what element to render**&#x20;
 
@@ -12,7 +12,7 @@ In Output Properties, choose :&#x20;
 
 * Format Resolution
 * Output folder
-* Format (PNG)
+* Format : EXR Multilayer
 
 Then, Render ⇒ Render Animation
 

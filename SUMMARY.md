@@ -39,6 +39,7 @@
 * [Find start / end frames in DVR](workflow/find-start-end-frames-in-dvr.md)
 * [Export to Blender](workflow/export-to-blender.md)
 * [GeoTracker in Blender](workflow/geotracker-in-blender.md)
+* [Export EXR from Blender](workflow/export-exr-from-blender.md)
 * [Compositing in DVR](compositing-in-dvr.md)
 
 ## Tracking in DVR
@@ -55,7 +56,6 @@
 
 * [Import shots in AutoShot](workflow/import-shots-in-blender.md)
 * [Create the structure in Blender](workflow/create-the-structure-in-blender-1.md)
-* [Export structure from Blender](workflow/export-structure-from-blender.md)
 
 ## Software Installation
 

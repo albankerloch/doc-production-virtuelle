@@ -14,3 +14,13 @@
 * Click on "Analyse"
 
 **GeoTracker Camera Animation**
+
+* Go to the first frame of the sequence
+* In the explorer, select the camera action
+* Right-click
+* Delete
+* GeoTracker ⇒ Tracking&#x20;
+* Set to Camera (instead of geometry)
+* Click on Pin Mode
+* Add Pin
+* Click Refine forward
