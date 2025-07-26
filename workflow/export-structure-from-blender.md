@@ -1,4 +1,4 @@
-# Export from Blender
+# Export structure from Blender
 
 **Check what element to render**&#x20;
 

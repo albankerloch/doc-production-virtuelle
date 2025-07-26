@@ -40,7 +40,7 @@ description: 'to do : importer image dans lightcraft + utiliser Icloud'
 * Open the Ligthcraft Jetset app on Iphone
 * In Autoshot, you'll see now your Iphone :
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * In Autoshot, click on the USDZ model then click on Push to File to Jetset
 
