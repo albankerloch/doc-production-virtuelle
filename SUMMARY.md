@@ -35,7 +35,7 @@
 * [Create  the structure in Blender](workflow/create-the-structure-in-blender.md)
 * [Import in Ligthcraft Jetset](workflow/import-in-ligthcraft-jetset.md)
 * [Set the camera](workflow/set-the-camera.md)
-* [Import shots in Blender](workflow/import-shots-in-blender.md)
+* [Import shots in AutoShot](workflow/import-shots-in-autoshot.md)
 * [GeoTracker in Blender](workflow/geotracker-in-blender.md)
 * [Create the structure in Blender](workflow/create-the-structure-in-blender-1.md)
 * [Export structure from Blender](workflow/export-structure-from-blender.md)
