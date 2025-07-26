@@ -1,4 +1,4 @@
-# Import shots in Blender
+# Import shots in AutoShot
 
 **Windows**
 
@@ -9,12 +9,6 @@
 * On the Run Values section, choose Blender and click on Pick Executable and select the exe in :
   * C:\Program Files (x86)\Steam\steamapps\common\Blender (if installed with Steam)
   * or C:\Program Files (x86)\Blender Foundation\Blender 4.1
-* Install the blender add-on of Ligthcraft Autoshot :&#x20;
-  * Edit
-  * Preferences
-  * Add-on
-  * Search for Ligthcraft Technologies Autoshot
-  * Tick the box
 * Next to Scene Blend file, click on Set and select the blender project on the Assets folder
 * Choose the options needed :&#x20;
   * Generated Blend File :&#x20;
@@ -30,6 +24,4 @@
   * Import Set LiDAR (if a scan was done)
   * Set Depth (plane to camera)
 * Click on Save & Run (it'll open Blender)
-
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 

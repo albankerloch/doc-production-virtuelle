@@ -35,14 +35,11 @@
 * [Create  the structure in Blender](workflow/create-the-structure-in-blender.md)
 * [Import in Ligthcraft Jetset](workflow/import-in-ligthcraft-jetset.md)
 * [Set the camera](workflow/set-the-camera.md)
-* [Import shots in AutoShot](workflow/import-shots-in-autoshot.md)
+* [Import shots with AutoShot](workflow/import-shots-with-autoshot.md)
+* [Find start / end frames in DVR](workflow/find-start-end-frames-in-dvr.md)
+* [Export to Blender](workflow/export-to-blender.md)
 * [GeoTracker in Blender](workflow/geotracker-in-blender.md)
-* [Create the structure in Blender](workflow/create-the-structure-in-blender-1.md)
-* [Export structure from Blender](workflow/export-structure-from-blender.md)
-
-***
-
-* [Compositing in DVR](compositing-in-dvr.md)
+* [Compositing in DVR](workflow/compositing-in-dvr.md)
 
 ## Tracking in DVR
 
@@ -53,3 +50,14 @@
 ## Tracking with SynthEyes
 
 * [Refine tracking in SynthEyes](tracking-with-syntheyes/refine-tracking-in-syntheyes.md)
+
+## Tracking wiht AutoShot
+
+* [Import shots in AutoShot](tracking-wiht-autoshot/import-shots-in-autoshot.md)
+* [Create the structure in Blender](tracking-wiht-autoshot/create-the-structure-in-blender.md)
+* [Export structure from Blender](tracking-wiht-autoshot/export-structure-from-blender.md)
+
+## Software Installation
+
+* [AutoShot in Blender](software-installation/autoshot-in-blender.md)
+* [Geotracker in Blender](software-installation/geotracker-in-blender.md)

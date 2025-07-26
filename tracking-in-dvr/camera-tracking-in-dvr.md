@@ -50,7 +50,7 @@ Merge3D ⇒ view on Left ⇒ Right Click ⇒ Camera ⇒ Camera3D
 
 **Fusion Mode : add a shape**
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Drag the 3D shape to the nodes part
 
