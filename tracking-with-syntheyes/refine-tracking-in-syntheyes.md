@@ -56,7 +56,13 @@ Change Large Points :
 
 **Creating Survey Data**
 
-If Set Lidar, can link the points to the mesh
+On Trackers tab, click on Toolbars / Mesh (up right table)
+
+Click on "Show meshes" on the new Mesh table (up left)
+
+Lasso select severals trackers on the ground (click on blank area and drag the lasso)
+
+Click Track ⇒ Drop onto mesh (on ground area where there is mesh)
 
 **Solve the tracking**
 
@@ -107,7 +113,7 @@ Select&#x20;
 
 File ⇒ Export ⇒ Blender (Python)
 
-Set Rescale scene to 0.01 (Synth centimeter and Blender in meter
+Set Rescale scene to 0.01 (Synth centimeter and Blender in meter)
 
 Set Track to 5
 
