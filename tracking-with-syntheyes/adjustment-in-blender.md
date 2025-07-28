@@ -46,4 +46,11 @@ Output ⇒ create a folder
 
 Render ⇒ Render animation (with chisels)
 
-Rename export with Autoshot
+**Renumber export with Autoshot**
+
+In Autoshot, File ⇒ Renumber Image Sequence
+
+Chose the created folder and select the first image
+
+Enter New Starting Number = 1001
+
