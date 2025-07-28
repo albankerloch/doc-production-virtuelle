@@ -32,7 +32,7 @@ File ⇒ Run Script ⇒ find python script in sequence/.../nuke
 
 New nodes appear
 
-**Check Alignment (with chisels) : optionnal**
+**Check Alignment (with chisels)**
 
 R : add Reader node
 
@@ -54,15 +54,43 @@ Click tab to add Reformat Node
 
 Change the output format to Syn83894x2190 (as Cam1Merge1 on the left part of SynthEyes nodes)
 
+**Optionnal Check**
+
 Click M to Add a Merge (over) node
 
 Set A to Cam1Render (chisels) and B to Reformat ⇒ click 1 on the merge node to display the result
 
 Click D to see that the rendered chisels are on the right place :)
 
-**Final Render**
+**Final Compositing**
 
+Redirect the Reformat Node to the Cam1RePresize Node
 
+Copy and paste the Cam1Reade1 node
 
+Direct the new Cam1Reader1 node to the Cam1Merge (over)
 
+<figure><img src="../.gitbook/assets/image (27).png" alt="" width="495"><figcaption></figcaption></figure>
+
+Select the Cam1Merge (over)
+
+Render ⇒ FlipBook Selected ⇒ OK
+
+Space to see Full Frame to check if the tracking is correct
+
+**Render**
+
+Redirect the Write1 node (from the script) to the Cam1Merge output
+
+Change the file type to exr
+
+Change the compression to DWWA
+
+(the output directory is already set up)
+
+<figure><img src="../.gitbook/assets/image (28).png" alt="" width="249"><figcaption></figcaption></figure>
+
+Select the Write1 node
+
+Render ⇒ Render Selected Write Nodes ... ⇒ OK
 
