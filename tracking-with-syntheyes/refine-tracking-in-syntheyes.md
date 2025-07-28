@@ -127,7 +127,7 @@ Compression setting => 20 000
 
 **Lens Worflow**
 
-Click on the Lense Worklow Button
+On solver tab, click on the Lense Worklow Button
 
 Select Redistyorted (2)
 

@@ -51,6 +51,7 @@
 ## Tracking with SynthEyes
 
 * [Refine tracking in SynthEyes](tracking-with-syntheyes/refine-tracking-in-syntheyes.md)
+* [Adjustment in Blender](tracking-with-syntheyes/adjustment-in-blender.md)
 
 ## Tracking wiht AutoShot
 
