@@ -7,7 +7,7 @@
   * right-click on the "Footage/Takes" folder&#x20;
   * click on Add Folder and Subfolders into Media Pool
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Edit**
 

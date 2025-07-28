@@ -14,4 +14,4 @@
   * AI Roto Model : INSPYRENET (better human extraction but slow)
   * Add Camera Plan : unchecked (or suppress after in Blender)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

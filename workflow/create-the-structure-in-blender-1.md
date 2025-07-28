@@ -23,4 +23,4 @@ Type the Start and End of the desired part of the video
 * Fix the position in the middle (where is needed - for Y and X)
 * Check by rolling the whole animation
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

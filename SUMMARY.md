@@ -52,6 +52,7 @@
 
 * [Refine tracking in SynthEyes](tracking-with-syntheyes/refine-tracking-in-syntheyes.md)
 * [Adjustment in Blender](tracking-with-syntheyes/adjustment-in-blender.md)
+* [Compositing in Nuke](tracking-with-syntheyes/compositing-in-nuke.md)
 
 ## Tracking wiht AutoShot
 
