@@ -103,15 +103,45 @@ Close the pop-in and click on Go (Green Button) to refine
 
 If the error is not raising, click on C4 and V4 to be set to Calculate and Go again
 
+**Add Chisels**
+
+Click on 8/10 stable trackers on the ground
+
+Click on Script ⇒ Mesh ⇒ Duplicate Mesh onto Trackers
+
+Put 5 as chisel size
+
+**Render Preview**
+
+On the 3D tab, select the mesh
+
+Click on Hide
+
+Shot ⇒ Savec Sequence
+
+Select a folder
+
+Mesh included
+
+Compression setting => 20 000
+
 **Lens Worflow**
 
 Click on the Lense Worklow Button
 
-Select&#x20;
+Select Redistyorted (2)
+
+Margin = 5
+
+Maximum Rounding error = 1
 
 **Export**
 
 File ⇒ Export ⇒ Blender (Python)
+
+Timeline setup = Entire Shot
+
+Starting Frame = 1
 
 Set Rescale scene to 0.01 (Synth centimeter and Blender in meter)
 
