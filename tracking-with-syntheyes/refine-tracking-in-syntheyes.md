@@ -149,3 +149,5 @@ Set Track to 5
 
 Change the Blender executable with the Pick Executable in AutoShot
 
+Blender will automatically open
+
