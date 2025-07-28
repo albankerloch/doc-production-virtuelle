@@ -15,11 +15,8 @@
 * [Lighting](blender/lighting.md)
 * [Animation](<README (2).md>)
 * [Export in USD](blender/exporter-en-usd.md)
-
-***
-
-* [Shorcuts](shorcuts.md)
-* [Links](links.md)
+* [Shorcuts](blender/shorcuts.md)
+* [Links](blender/links.md)
 
 ## Ligthcraft jetset
 
