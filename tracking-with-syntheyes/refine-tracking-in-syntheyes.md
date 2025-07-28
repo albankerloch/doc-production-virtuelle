@@ -135,7 +135,7 @@ Margin = 5
 
 Maximum Rounding error = 1
 
-**Export**
+**Export for Blender**
 
 File ⇒ Export ⇒ Blender (Python)
 
