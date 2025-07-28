@@ -1,11 +1,5 @@
 # Refine tracking in SynthEyes
 
-**Installing Inspyrenet**
-
-Download from [https://lightcraft.pro/downloads/](https://lightcraft.pro/downloads/)
-
-Extract to C:\Program Files\Lightcraft Technology
-
 **AutoShot : Generate SynthEyes Script**
 
 Run Values section :
