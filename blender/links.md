@@ -6,4 +6,4 @@ Blender Guru, architecture in 9 minutes : [https://www.youtube.com/watch?v=DJRBv
 
 Import SynthEyes tracking into Blender : [https://www.youtube.com/watch?v=VqlokaIsCsM\&list=WL\&index=2](https://www.youtube.com/watch?v=VqlokaIsCsM\&list=WL\&index=2)
 
-Blender : [https://www.youtube.com/watch?v=w6YPbidAAzQ](https://www.youtube.com/watch?v=w6YPbidAAzQ)
+De-lighting : [https://www.youtube.com/watch?v=w6YPbidAAzQ](https://www.youtube.com/watch?v=w6YPbidAAzQ)
