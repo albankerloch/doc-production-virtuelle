@@ -6,3 +6,5 @@ GeoTracker : [https://www.youtube.com/watch?v=UB4j7ZUFafc](https://www.youtube.c
 
 SynthEyes : [https://www.youtube.com/watch?v=VqlokaIsCsM](https://www.youtube.com/watch?v=VqlokaIsCsM)
 
+IA Vidéo with Runaway : [https://share.descript.com/view/NuddlN8WZau](https://share.descript.com/view/NuddlN8WZau)
+
