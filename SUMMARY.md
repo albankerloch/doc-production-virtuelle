@@ -35,7 +35,6 @@
 * [Import shots with AutoShot](workflow/import-shots-with-autoshot.md)
 * [Find start / end frames in DVR](workflow/find-start-end-frames-in-dvr.md)
 * [Export to Blender](workflow/export-to-blender.md)
-* [GeoTracker in Blender](workflow/geotracker-in-blender.md)
 * [Export EXR from Blender](workflow/export-exr-from-blender.md)
 * [Compositing in DVR](compositing-in-dvr.md)
 
@@ -51,10 +50,10 @@
 * [Adjustment in Blender](tracking-with-syntheyes/adjustment-in-blender.md)
 * [Compositing in Nuke](tracking-with-syntheyes/compositing-in-nuke.md)
 
-## Tracking wiht AutoShot
+## Tracking with AutoShot
 
-* [Import shots in AutoShot](workflow/import-shots-in-blender.md)
-* [Create the structure in Blender](workflow/create-the-structure-in-blender-1.md)
+* [Import shots in AutoShot](tracking-with-autoshot/import-shots-in-autoshot.md)
+* [Create the structure in Blender](tracking-with-autoshot/create-the-structure-in-blender.md)
 
 ## Software Installation
 
@@ -62,3 +61,7 @@
 * [AutoShot in Blender](software-installation/autoshot-in-blender.md)
 * [Geotracker in Blender](software-installation/geotracker-in-blender.md)
 * [Nuke](software-installation/nuke.md)
+
+## Tracking with GeoTracker
+
+* [GeoTracker in Blender](tracking-with-geotracker/geotracker-in-blender.md)
