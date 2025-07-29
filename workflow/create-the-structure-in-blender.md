@@ -10,7 +10,9 @@
 
 **Add a reference image**
 
-**Shape the windows**
+**Shape the windows / doors**
+
+knife + x (ou y)
 
 **Add a sky**
 
