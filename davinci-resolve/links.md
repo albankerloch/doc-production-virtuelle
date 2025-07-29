@@ -11,3 +11,7 @@ Color correction with Blender
 History of Digital Color :
 
 * [https://www.youtube.com/watch?v=v7MdPJqEOU4\&list=WL\&index=3\&t=618s](https://www.youtube.com/watch?v=v7MdPJqEOU4\&list=WL\&index=3\&t=618s)
+
+SynthEyes / Blender / Fusion : undistorded worflow&#x20;
+
+* [https://www.youtube.com/watch?v=Pax2DRTEamQ](https://www.youtube.com/watch?v=Pax2DRTEamQ)
