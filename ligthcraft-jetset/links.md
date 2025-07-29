@@ -8,3 +8,5 @@ SynthEyes : [https://www.youtube.com/watch?v=VqlokaIsCsM](https://www.youtube.co
 
 IA Vidéo with Runaway : [https://share.descript.com/view/NuddlN8WZau](https://share.descript.com/view/NuddlN8WZau)
 
+Test Jetset + Polycam : [https://www.youtube.com/watch?v=qVWUwNrjZHk](https://www.youtube.com/watch?v=qVWUwNrjZHk)
+
