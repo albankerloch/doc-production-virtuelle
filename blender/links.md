@@ -1,6 +1,6 @@
 # Links
 
-**Analysé :**
+**Refait :**
 
 Blender Guru, Donut serie : [https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z)
 
@@ -8,11 +8,11 @@ Blender Guru, architecture in 9 minutes : [https://www.youtube.com/watch?v=DJRBv
 
 Import SynthEyes tracking into Blender : [https://www.youtube.com/watch?v=VqlokaIsCsM\&list=WL\&index=2](https://www.youtube.com/watch?v=VqlokaIsCsM\&list=WL\&index=2)
 
+
+
+**À refaire :**&#x20;
+
 De-lighting : [https://www.youtube.com/watch?v=w6YPbidAAzQ](https://www.youtube.com/watch?v=w6YPbidAAzQ)
-
-
-
-**À analyser :**&#x20;
 
 
 
