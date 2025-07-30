@@ -68,5 +68,5 @@
 
 ## SynthEyse
 
-* [SynthEyes geometry](syntheyse/syntheyes-geometry.md)
+* [Set the ground level](syntheyse/set-the-ground-level.md)
 * [Links](syntheyse/links.md)
