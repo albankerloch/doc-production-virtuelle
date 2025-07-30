@@ -68,5 +68,6 @@
 
 ## SynthEyse
 
-* [Set the ground level](syntheyse/set-the-ground-level.md)
+* [Set the ground level](syntheyse/syntheyes-geometry.md)
+* [Add Geometry](syntheyse/add-geometry.md)
 * [Links](syntheyse/links.md)
