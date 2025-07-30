@@ -111,7 +111,7 @@ Click on Script ⇒ Mesh ⇒ Duplicate Mesh onto Trackers
 
 Put 5 as chisel size
 
-**Render Preview**
+**Render Preview (optionnal : to visualize check alignement)**
 
 On the 3D tab, select the mesh
 
