@@ -4,6 +4,8 @@
 
 Save the blender scene opened automatically (temp file)
 
+Note the export resolution
+
 **Export from Autoshot**
 
 Open the Blender file generated from Autoshot (without INSPRYNET)
@@ -16,15 +18,25 @@ File ⇒ Append ⇒ choose the blender temp file
 
 Go to Collection ⇒ SynthEyses Collections
 
-**Adjust the floor ground**
+Hide the scan mesh
+
+Scale the plane (X = 0.01, Y = 0.01, Z = 0.01) in properties
+
+**With SynthEyses Geometry : Adjust the 3D env**
+
+Select the 3D structure
+
+Move the struture to snap to the SynthEyses Geometry (not from the viewport)
+
+Check the first and last frame from the viewport
+
+**or With Chisels : Adjust the floor ground**&#x20;
 
 Unsee the main mesh in the SynthEyesWolrd (and unrender)
 
 Select the SynthEyesWolrd
 
 G + Z ⇒ Adjust the chisels to the ground level
-
-**Adjust the ground perspective**
 
 Select the front chisel
 
@@ -40,11 +52,17 @@ R + X ⇒ Adjust the perspective with the other cursors
 
 **Render check animation**
 
-Output parameters : Resolution % = 105 %
+Output parameters :&#x20;
+
+* Resolution : as in exported blender file from SynthEyes
+
+or
+
+* Resolution % = 105 %
 
 Output ⇒ create a folder
 
-Render ⇒ Render animation (with chisels)
+Render ⇒ Render animation (without chisels)
 
 **Renumber export with Autoshot**
 
