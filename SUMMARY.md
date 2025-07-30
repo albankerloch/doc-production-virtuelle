@@ -36,7 +36,6 @@
 * [Find start / end frames in DVR](workflow/find-start-end-frames-in-dvr.md)
 * [Export to Blender](workflow/export-to-blender.md)
 * [Export EXR from Blender](workflow/export-exr-from-blender.md)
-* [Compositing in DVR](compositing-in-dvr.md)
 
 ## Tracking in DVR
 
