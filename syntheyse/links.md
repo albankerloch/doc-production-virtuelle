@@ -1,9 +1,11 @@
 # Links
 
-SynthEyes Tutorial
+SynthEyes Tutorial : [https://www.youtube.com/watch?v=VqlokaIsCsM](https://www.youtube.com/watch?v=VqlokaIsCsM)
 
-* [https://www.youtube.com/watch?v=VqlokaIsCsM](https://www.youtube.com/watch?v=VqlokaIsCsM)
+SynthEyes / Blender / Fusion (undistorded worflow) : [https://www.youtube.com/watch?v=Pax2DRTEamQ](https://www.youtube.com/watch?v=Pax2DRTEamQ)
 
-SynthEyes / Blender / Fusion : undistorded worflow&#x20;
+Test Jetset + Polycam : [https://www.youtube.com/watch?v=qVWUwNrjZHk](https://www.youtube.com/watch?v=qVWUwNrjZHk)
 
-* [https://www.youtube.com/watch?v=Pax2DRTEamQ](https://www.youtube.com/watch?v=Pax2DRTEamQ)
+Ground Plane Methods to Coordinate System : [https://www.youtube.com/watch?v=OD-TkDQzySk](https://www.youtube.com/watch?v=OD-TkDQzySk)
+
+Snap Polycam to Trackers : [https://www.youtube.com/watch?v=qVWUwNrjZHk](https://www.youtube.com/watch?v=qVWUwNrjZHk)
