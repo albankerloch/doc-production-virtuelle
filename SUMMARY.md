@@ -65,3 +65,8 @@
 ## Tracking with GeoTracker
 
 * [GeoTracker in Blender](tracking-with-geotracker/geotracker-in-blender.md)
+
+## SynthEyse
+
+* [SynthEyes geometry](syntheyse/syntheyes-geometry.md)
+* [Links](syntheyse/links.md)
