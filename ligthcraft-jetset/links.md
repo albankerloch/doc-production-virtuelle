@@ -10,3 +10,7 @@ IA Vidéo with Runaway : [https://share.descript.com/view/NuddlN8WZau](https://s
 
 Test Jetset + Polycam : [https://www.youtube.com/watch?v=qVWUwNrjZHk](https://www.youtube.com/watch?v=qVWUwNrjZHk)
 
+Ground Plane Methods to Coordinate System : [https://www.youtube.com/watch?v=OD-TkDQzySk](https://www.youtube.com/watch?v=OD-TkDQzySk)
+
+Snap Polycam to Trackers : [https://www.youtube.com/watch?v=qVWUwNrjZHk](https://www.youtube.com/watch?v=qVWUwNrjZHk)
+
