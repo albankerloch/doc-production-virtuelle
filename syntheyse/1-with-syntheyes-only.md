@@ -22,5 +22,7 @@ Solve tab ⇒ Automatic
 
 Maj + C
 
-**Set up the coordinate system**
+**Set up the coordinate systemxww**
+
+**Export to Blender**
 
