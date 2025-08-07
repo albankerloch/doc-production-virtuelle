@@ -10,3 +10,15 @@ SynthEyes With JetSet :&#x20;
 
 IA Vidéo with Runaway : [https://share.descript.com/view/NuddlN8WZau](https://share.descript.com/view/NuddlN8WZau)
 
+
+
+**À refaire :**&#x20;
+
+
+
+**À regarder :**
+
+
+
+**Regardé :**
+
