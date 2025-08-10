@@ -1,10 +1,12 @@
 # Adjustment in Blender
 
-**Export from SynthEyes**
+**Adjust the Blender export from SynthEyes**
 
 Save the blender scene opened automatically (temp file)
 
-Note the export resolution
+Select all elements
+
+Scale all the elements (X = 0.01, Y = 0.01, Z = 0.01) in properties
 
 **Export from Autoshot**
 
@@ -19,8 +21,6 @@ File ⇒ Append ⇒ choose the blender temp file
 Go to Collection ⇒ SynthEyses Collections
 
 Hide the scan mesh
-
-Scale the plane (X = 0.01, Y = 0.01, Z = 0.01) in properties
 
 **With SynthEyses Geometry : Adjust the 3D env**
 

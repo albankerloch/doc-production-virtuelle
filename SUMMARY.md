@@ -56,13 +56,6 @@
 * [Import shots in AutoShot](tracking-with-autoshot/import-shots-in-autoshot.md)
 * [Create the structure in Blender](tracking-with-autoshot/create-the-structure-in-blender.md)
 
-## Software Installation
-
-* [INPYRENET in AutoShot](software-installation/inpyrenet-in-autoshot.md)
-* [AutoShot in Blender](software-installation/autoshot-in-blender.md)
-* [Geotracker in Blender](software-installation/geotracker-in-blender.md)
-* [Nuke](software-installation/nuke.md)
-
 ## Tracking with GeoTracker
 
 * [GeoTracker in Blender](tracking-with-geotracker/geotracker-in-blender.md)
@@ -75,3 +68,10 @@
 * [Set the ground level](syntheyse/syntheyes-geometry.md)
 * [Add Geometry](syntheyse/add-geometry.md)
 * [Links](syntheyse/links.md)
+
+## Software Installation
+
+* [INPYRENET in AutoShot](software-installation/inpyrenet-in-autoshot.md)
+* [AutoShot in Blender](software-installation/autoshot-in-blender.md)
+* [Geotracker in Blender](software-installation/geotracker-in-blender.md)
+* [Nuke](software-installation/nuke.md)

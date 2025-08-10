@@ -143,8 +143,6 @@ Timeline setup = Entire Shot
 
 Starting Frame = 1
 
-Set Rescale scene to 0.01 (Synth centimeter and Blender in meter) \[CHECK THIS ⇒ Mess up camera]
-
 Set Track to 5
 
 Change the Blender executable with the Pick Executable in AutoShot
