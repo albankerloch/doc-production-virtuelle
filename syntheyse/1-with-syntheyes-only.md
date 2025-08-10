@@ -48,7 +48,15 @@ Check for sliding during the shot
 
 **3) Set up contrainst for the grid**
 
-**Set up a distance value**
+**Set up a distance constraint with existing trackers**
+
+On the Coordinates room :
+
+* Click : select one tracker
+* Alt + Click : select another tracker
+* Set the distance on the left panel
+
+On the Solver room, click on Refine
 
 **Export to Blender**
 
