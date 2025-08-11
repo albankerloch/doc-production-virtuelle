@@ -62,6 +62,12 @@ or
 
 Output ⇒ create a folder
 
+Output path ⇒ set V1\_ (at the end : necessary for the renumber part after)
+
+Check the transparent boc in the Film section of Rendering :&#x20;
+
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
 Render ⇒ Render animation (without chisels)
 
 **Renumber export with Autoshot**
