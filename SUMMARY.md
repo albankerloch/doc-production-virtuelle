@@ -47,8 +47,8 @@
 
 * [Refine tracking in SynthEyes](tracking-with-syntheyes/refine-tracking-in-syntheyes.md)
 * [Adjustment in Blender](tracking-with-syntheyes/adjustment-in-blender.md)
-* [Compositing in Nuke](tracking-with-syntheyes/compositing-in-nuke.md)
 * [Compositing in DVR](tracking-with-syntheyes/compositing-in-dvr.md)
+* [Compositing in Nuke](tracking-with-syntheyes/compositing-in-nuke.md)
 * [Tracking with Insta 360](tracking-with-syntheyes/tracking-with-insta-360.md)
 
 ## Tracking with AutoShot
