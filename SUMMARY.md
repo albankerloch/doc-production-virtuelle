@@ -26,6 +26,8 @@
 ## DaVinci Resolve
 
 * [Color Management for Blender](davinci-resolve/color-management-for-blender.md)
+* [Color Grading Workflow](davinci-resolve/color-grading-workflow.md)
+* [Shortcuts](davinci-resolve/shortcuts.md)
 * [Links](davinci-resolve/links.md)
 
 ## Workflow
