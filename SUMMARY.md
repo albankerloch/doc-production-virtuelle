@@ -27,6 +27,7 @@
 
 * [Blender Color Management](davinci-resolve/blender-color-management.md)
 * [Blender Color Grading Workflow](davinci-resolve/blender-color-grading-workflow.md)
+* [Mimic AgX](davinci-resolve/mimic-agx.md)
 * [Sigma FP Workflow](davinci-resolve/sigma-fp-workflow.md)
 * [Shortcuts](davinci-resolve/shortcuts.md)
 * [Links](davinci-resolve/links.md)
