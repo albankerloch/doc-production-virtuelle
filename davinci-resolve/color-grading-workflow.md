@@ -2,8 +2,6 @@
 
 **Color Culture**
 
-
-
 **Color Space** : _which_ colors are available (sRGB, Rec709, P3, Davinci, ACES)
 
 **Gamma** : defines how those colors transition in brightness (Linear,  sRGB, Gamma 2.2  for PC / Mobile screen, Gamma 2.4 for cinema)
@@ -43,7 +41,7 @@ CST node in Color tab with&#x20;
 
 
 
-**Third Node : Color Correction**
+**Color Correction Nodes**
 
 Use the Color Wheels Panel :
 
@@ -52,9 +50,24 @@ Use the Color Wheels Panel :
 * Gain : highlight tones
 * Offset : all tones (?)
 
+Then change :&#x20;
+
+* Temps
+* Tint (Green to Magenda)
+* Contrast (alternative to Left / Gamma / Gain)
+* Color Boost (prioritize neutral colors)
+* Saturation (prioritize already saturated colors)
+
+If necessary :&#x20;
+
+* Node Hue : Hue Vs Hue ⇒ Change Red to Purple
+* Node Saturation : Hue Vs Sat ⇒ Change Colors more precisely
+* Node Lum : Lum Vs Sat : change saturation of brighter or darker tones only
+* Node RGB : Curves Custom ⇒ Affect R G B channels more precisely with a curve (Y : Luminance)
 
 
-**Second Node : CST**
+
+**Last Node : CST**
 
 CST node in Color tab with&#x20;
 
@@ -65,6 +78,6 @@ CST node in Color tab with&#x20;
   * Output Gamma :  Gamma 2.2
 * Tone Mapping Method : DaVinci
   * Max Nits = 10000 (secure)
-* Gamut Mapping : (avoid Saturated colors to escape the color space)
+* Gamut Mapping : Saturation Compression (avoid Saturated colors to escape the color space)
 * Advanced :
   * Check : Apply Forward OOTF (Opto-Optical Transfer Functions ⇒ to Electronic Device)

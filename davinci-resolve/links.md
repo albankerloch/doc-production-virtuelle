@@ -14,15 +14,66 @@ Aspect Ratop Calculator : [https://www.tferradans.com/arcalc/](https://www.tferr
 
 HFOV : [https://www.tferradans.com/anacalc/](https://www.tferradans.com/anacalc/)
 
+Blender to Resolve: a Freemium Video Course : [Link](https://track.gumroad.com/CL0/https:%2F%2Fgumroad.com%2Fd%2F9eb5bca9bb21e967f4f3c368cd3d4e8a/1/010001989b79985e-c352fa85-4909-4d91-bed4-d668cffd9786-000000/gJG8H2y_jFscWsXv_w0DpDTrE2UnTCZv3c5mnlKQrvU=417)
+
 
 
 **À refaire :**&#x20;
 
 
 
+
+
 **À regarder :**
 
-Blender to Resolve: a Freemium Video Course : [https://track.gumroad.com/CL0/https:%2F%2Fgumroad.com%2Fd%2F9eb5bca9bb21e967f4f3c368cd3d4e8a/1/010001989b79985e-c352fa85-4909-4d91-bed4-d668cffd9786-000000/gJG8H2y\_jFscWsXv\_w0DpDTrE2UnTCZv3c5mnlKQrvU=417](https://track.gumroad.com/CL0/https:%2F%2Fgumroad.com%2Fd%2F9eb5bca9bb21e967f4f3c368cd3d4e8a/1/010001989b79985e-c352fa85-4909-4d91-bed4-d668cffd9786-000000/gJG8H2y_jFscWsXv_w0DpDTrE2UnTCZv3c5mnlKQrvU=417)
+Sigma FP
+
+Dylan Coleman :
+
+* [https://www.youtube.com/watch?v=ZE\_hi2hE7z0](https://www.youtube.com/watch?v=ZE_hi2hE7z0)
+* [https://www.youtube.com/watch?v=Jc74WkeeeSc\&t=3s](https://www.youtube.com/watch?v=Jc74WkeeeSc\&t=3s)
+* [https://www.youtube.com/watch?v=j41JRy1tEkk\&t=5s](https://www.youtube.com/watch?v=j41JRy1tEkk\&t=5s)
+* [https://www.youtube.com/watch?v=BIKC4rr6ETg](https://www.youtube.com/watch?v=BIKC4rr6ETg)
+
+Clever Ghost : [https://www.youtube.com/watch?v=1JNb4TsCA2w](https://www.youtube.com/watch?v=1JNb4TsCA2w)
+
+Sashank Saye : [https://www.youtube.com/watch?v=gpykwXWyREY](https://www.youtube.com/watch?v=gpykwXWyREY)
+
+Ole Berek : [https://www.youtube.com/watch?v=4LF1f9p3qYs](https://www.youtube.com/watch?v=4LF1f9p3qYs)
+
+Partimefilmaker : [https://www.youtube.com/watch?v=jgvbDkhAqHY](https://www.youtube.com/watch?v=jgvbDkhAqHY)
+
+AZFIlmaking : [https://www.youtube.com/watch?v=YLz53hkTtjU](https://www.youtube.com/watch?v=YLz53hkTtjU)
+
+The Flow Owl : [https://www.youtube.com/watch?v=rdu9cZS7foU](https://www.youtube.com/watch?v=rdu9cZS7foU)
+
+Tom Thud :  [https://www.youtube.com/watch?v=DEY5h9tZ6JU](https://www.youtube.com/watch?v=DEY5h9tZ6JU)
+
+Anson & Co :&#x20;
+
+* [https://www.youtube.com/watch?v=BGiu8PKuaso](https://www.youtube.com/watch?v=BGiu8PKuaso)
+* [https://www.youtube.com/watch?v=eP2s1WXHma](https://www.youtube.com/watch?v=eP2s1WXHmag)
+* [https://www.youtube.com/watch?v=eP2s1WXHmag](https://www.youtube.com/watch?v=eP2s1WXHmag)
+
+Jake Hayden : [https://www.youtube.com/watch?v=Jp3Bb5015os\&t=12s](https://www.youtube.com/watch?v=Jp3Bb5015os\&t=12s)
+
+Adapt Anything : [https://www.youtube.com/watch?v=cr4O3T0syPk](https://www.youtube.com/watch?v=cr4O3T0syPk)
+
+EveryThing Pixel : [https://www.youtube.com/watch?v=dJwd6yWr8ls](https://www.youtube.com/watch?v=dJwd6yWr8ls)
+
+
+
+Général Photo
+
+IA :  [https://www.youtube.com/watch?v=IBBAJXMTmNQ](https://www.youtube.com/watch?v=IBBAJXMTmNQ)
+
+
+
+
+
+
+
+
 
 **Regardé :**
 
