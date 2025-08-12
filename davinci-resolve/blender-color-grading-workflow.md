@@ -1,4 +1,4 @@
-# Color Grading Workflow
+# Blender Color Grading Workflow
 
 **Color Culture**
 
@@ -64,6 +64,8 @@ If necessary :&#x20;
 * Node Saturation : Hue Vs Sat ⇒ Change Colors more precisely
 * Node Lum : Lum Vs Sat : change saturation of brighter or darker tones only
 * Node RGB : Curves Custom ⇒ Affect R G B channels more precisely with a curve (Y : Luminance)
+* ColorSlice : change Hue / Sat / Color Wheel for each color (RGB, YMC, Skin)
+* Effects : Glow, Vignette, Film Grain, Noise Reduction
 
 
 
