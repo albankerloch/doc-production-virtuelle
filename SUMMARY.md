@@ -25,8 +25,8 @@
 
 ## DaVinci Resolve
 
-* [Links](davinci-resolve/links.md)
 * [Color Management for Blender](davinci-resolve/color-management-for-blender.md)
+* [Links](davinci-resolve/links.md)
 
 ## Workflow
 

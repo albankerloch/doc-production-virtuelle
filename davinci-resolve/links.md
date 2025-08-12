@@ -14,13 +14,15 @@ Aspect Ratop Calculator : [https://www.tferradans.com/arcalc/](https://www.tferr
 
 HFOV : [https://www.tferradans.com/anacalc/](https://www.tferradans.com/anacalc/)
 
+
+
 **À refaire :**&#x20;
 
 
 
 **À regarder :**
 
-
+Blender to Resolve: a Freemium Video Course : [https://track.gumroad.com/CL0/https:%2F%2Fgumroad.com%2Fd%2F9eb5bca9bb21e967f4f3c368cd3d4e8a/1/010001989b79985e-c352fa85-4909-4d91-bed4-d668cffd9786-000000/gJG8H2y\_jFscWsXv\_w0DpDTrE2UnTCZv3c5mnlKQrvU=417](https://track.gumroad.com/CL0/https:%2F%2Fgumroad.com%2Fd%2F9eb5bca9bb21e967f4f3c368cd3d4e8a/1/010001989b79985e-c352fa85-4909-4d91-bed4-d668cffd9786-000000/gJG8H2y_jFscWsXv_w0DpDTrE2UnTCZv3c5mnlKQrvU=417)
 
 **Regardé :**
 
