@@ -6,7 +6,7 @@ Make sure the Video plane is set to be rendered
 
 <figure><img src="../.gitbook/assets/image (21).png" alt="" width="321"><figcaption></figcaption></figure>
 
-**Export in PNG**
+**Export in EXR**
 
 In Output Properties, choose :&#x20;
 

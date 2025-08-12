@@ -22,6 +22,10 @@ uncheck Include ambiant (light)
 
 check Export to clipboard
 
+**DaVinci Resolve : Settings**
+
+Project Setting ⇒ Image scaling : bilinear or bicubic (for EXR)
+
 **Fusion : Final Compositing**
 
 Drag and drop the export from blender to create a MediaIn2 node

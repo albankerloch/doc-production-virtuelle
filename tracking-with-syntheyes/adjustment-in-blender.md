@@ -52,23 +52,23 @@ R + X ⇒ Adjust the perspective with the other cursors
 
 **Render check animation**
 
+Create an Output  folder
+
 Output parameters :&#x20;
 
 * Resolution : as in exported blender file from SynthEyes
-
-or
-
-* Resolution % = 105 %
-
-Output ⇒ create a folder
-
-Output path ⇒ set V1\_ (at the end : necessary for the renumber part after)
+* Output path : set V1\_ (at the end : necessary for the renumber part after)
+* Color : RGB (or RGBA ?)
+* Color Depth : Half Float = enough
+* Compression : DWAA (loosy) = efficient
 
 Check the transparent boc in the Film section of Rendering :&#x20;
 
 <figure><img src="../.gitbook/assets/image (29).png" alt="" width="335"><figcaption></figcaption></figure>
 
 Render ⇒ Render animation (without chisels)
+
+Note : Blender always export in Rec709 / Linear with OpenEXR
 
 **Renumber export with Autoshot**
 
