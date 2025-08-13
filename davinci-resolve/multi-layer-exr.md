@@ -20,6 +20,8 @@ Possiblilty : flicker one ligth only, or glow
 
 Possibility : samples count different depending on light (with lot of noise)
 
+Possibility : Super Scale ⇒ 2x or 2x Enhanced
+
 Possibility : Frame step = 2 to speed up Rendering (but need to rename)
 
 ⇒ Video Properties ⇒ Redtime and Scaling ⇒
@@ -42,6 +44,8 @@ Add another Denoiser nodes if needed !
 
 Better than Denoiser in Blender (flickering)
 
+Use Motion Blur to mask Noise
+
 
 
 **Performance issue in the viewport**
@@ -53,8 +57,6 @@ Right Click =>New Compound Clip
 Right Click ⇒ Render in Place ... (pre-render)
 
 If need to change Right Click ⇒ Open in Timeline
-
-Compose in Timeline (⇒&#x20;
 
 
 
