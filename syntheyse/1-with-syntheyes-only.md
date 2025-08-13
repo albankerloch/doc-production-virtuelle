@@ -34,29 +34,9 @@ Refine
 
 Click on Lens Worflow ⇒ 2) Distorted
 
-**1) Manual set up the grid**
+**Set the ground and the scale (see others pages)**
 
-On 3-D room, change to Quadratic Perspective view
-
-With the whole button, adjust the floor trackers (in yellow) in 3D space : level + rotation
-
-Add planes for geometry reference
-
-Check for sliding during the shot
-
-**2) Place the grid**
-
-**3) Set up contrainst for the grid**
-
-**Set up a distance constraint with existing trackers**
-
-On the Coordinates room :
-
-* Click : select one tracker
-* Alt + Click : select another tracker
-* Set the distance on the left panel
-
-On the Solver room, click on Refine
+**Add planes for geometry reference**
 
 **Export to Blender**
 

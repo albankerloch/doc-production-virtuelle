@@ -74,7 +74,10 @@
 * [1) With SynthEyes only](syntheyse/1-with-syntheyes-only.md)
 * [2) With Witness Camera](syntheyse/2-with-witness-camera.md)
 * [3) With Jetset Cine](syntheyse/3-with-jetset-cine.md)
-* [Set the ground level](syntheyse/syntheyes-geometry.md)
+* [Ground level manually](syntheyse/ground-level-manually.md)
+* [Ground level with Autoplacement](syntheyse/ground-level-with-autoplacement.md)
+* [Ground level with coordinates](syntheyse/ground-level-with-coordinates.md)
+* [Ground level with lines](syntheyse/ground-level-with-lines.md)
 * [Add Geometry](syntheyse/add-geometry.md)
 * [Links](syntheyse/links.md)
 
