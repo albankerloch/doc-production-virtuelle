@@ -1,4 +1,4 @@
-# Sigma FP Workflow
+# Sigma FP Workflow (DVR)
 
 **Settings / Exposure :**
 
@@ -61,6 +61,8 @@ Add Mid/Detail&#x20;
 
 * ARRI ⇒ ARRI Alexa to Rec709
 
+Another Method to try : [https://www.youtube.com/watch?v=gpykwXWyREY](https://www.youtube.com/watch?v=gpykwXWyREY)
+
 
 
 **Dylan Coleman 7 nodes :**
@@ -89,6 +91,56 @@ Correct Exposure and L. S. (Low Shadow) if needed
 * Input Gamma : BlackMagic Design Film
 * Output Color Space : Rec.709
 * Output Gamma : Gamma 2.4
+
+
+
+**AZ Filmaking 3 nodes**&#x20;
+
+**Node 1 : Noise Reduction**&#x20;
+
+Temporal NR = 2
+
+Motion Range = small
+
+Luma and Chroma unlocked
+
+Luma = 1
+
+Chroma = 20
+
+
+
+**Node 2 : Adjusment (Color)**
+
+Use the pipette tool and click on a white area ⇒ set the white balance
+
+Change exposure with Lift / Gamma / Gain here
+
+**Node 3 : CST**
+
+* Input Color Space : BlackMagic Design Film Gen 1
+* Input Gamma : BlackMagic Design Film
+* Output Color Space : Rec.709
+* Output Gamma : Rec.709
+* Tone Mapping : Luminance  Mapping (to recover highlights)
+
+**Node 4 : LUT Fasle Color**
+
+Use this to see over exposed / underexposed / skin range to adjust Exposure (node 2) ⇒ deactivate after
+
+**Node 5 : Adjusment (Color)**
+
+Use pipette to set a point in Hue vs Hue
+
+Change the point after or before to adjust the skin tone near the skin line in the vectorscope
+
+**Node 6 : Creative LUT**
+
+[Links](https://boosty.to/azfilmmaking/posts/a597357d-b6b6-4a7f-8a19-353677978169?share=post_link)
+
+
+
+
 
 
 
