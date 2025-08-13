@@ -1,4 +1,19 @@
-# Ground level with coordinates
+# Ground level with trackers
+
+**Set trackers to set the scale (if needed)**
+
+(If you don't have two trackers which you know the distance between)
+
+On the Trackers room :
+
+* Click on the magic wand
+* Click on the part of the shot you want to track
+* "D" to advance a frame in tracking
+* "+" to stop the tracking (when it's diverging)
+
+Repeat the process to set a second tracker&#x20;
+
+On Solver room, hit Auto with Refine
 
 **Set the scale**
 
