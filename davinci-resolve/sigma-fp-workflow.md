@@ -1,4 +1,4 @@
-# Sigma FP Workflow : Dylan Coleman
+# Sigma FP Workflow
 
 **Settings / Exposure :**
 
@@ -89,8 +89,6 @@ Correct Exposure and L. S. (Low Shadow) if needed
 * Input Gamma : BlackMagic Design Film
 * Output Color Space : Rec.709
 * Output Gamma : Gamma 2.4
-
-
 
 
 
