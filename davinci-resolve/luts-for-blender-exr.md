@@ -81,7 +81,7 @@ Different types of LUT :
 
 Source :
 
-* JP :&#x20;
+* Built-In : Film Looks folder (Fudjifilm and Kodak film stock emulation - well documented)
 
 
 
