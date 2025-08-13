@@ -1,6 +1,6 @@
-# Mimic AgX
+# LUTs for Blender EXR
 
-**AgX**
+**Mimic AgX**
 
 Try to recreate the reaction of Film to light :
 
@@ -72,6 +72,16 @@ Copy Paste cube files in a folder in the LUT Folder
 Click Update Lists after
 
 Drag the LUT on a node
+
+Different types of LUT :
+
+* Technical : change Color Space and Gamma
+* Creative : styling
+* Technical & Creative : both at the same time (Creative DCTL)
+
+Source :
+
+* JP :&#x20;
 
 
 

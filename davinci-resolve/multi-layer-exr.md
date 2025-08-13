@@ -6,6 +6,8 @@ Light Layer ⇒ one collection per light
 
 Export one Animation per Ligth (long)
 
+
+
 **DaVinci Resolve**
 
 Stack the layer in the Edit tab
@@ -20,7 +22,10 @@ Possibility : samples count different depending on light (with lot of noise)
 
 Possibility : Frame step = 2 to speed up Rendering (but need to rename)
 
-⇒ Video Properties ⇒ Redtime and Scaling ⇒ Retime Process = Optical Flow
+⇒ Video Properties ⇒ Redtime and Scaling ⇒
+
+* Retime Process = Optical Flow
+* Motion Estimation = Speed Warp Faster
 
 
 
@@ -39,7 +44,7 @@ Better than Denoiser in Blender (flickering)
 
 
 
-Performance issue in the viewport
+**Performance issue in the viewport**
 
 Select all EXR channels + Adjustment layer
 

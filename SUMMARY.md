@@ -27,7 +27,7 @@
 
 * [Blender Color Management](davinci-resolve/blender-color-management.md)
 * [Blender Color Grading Workflow](davinci-resolve/blender-color-grading-workflow.md)
-* [Mimic AgX](davinci-resolve/mimic-agx.md)
+* [LUTs for Blender EXR](davinci-resolve/luts-for-blender-exr.md)
 * [Multi-Layer EXR](davinci-resolve/multi-layer-exr.md)
 * [Sigma FP Workflow](davinci-resolve/sigma-fp-workflow.md)
 * [Shortcuts](davinci-resolve/shortcuts.md)
