@@ -29,7 +29,9 @@
 * [Blender Color Grading Workflow](davinci-resolve/blender-color-grading-workflow.md)
 * [LUTs for Blender EXR](davinci-resolve/luts-for-blender-exr.md)
 * [Multi-Layer EXR](davinci-resolve/multi-layer-exr.md)
-* [Sigma FP Workflow](davinci-resolve/sigma-fp-workflow.md)
+* [Sigma FP Workflow : Dylan Coleman](davinci-resolve/sigma-fp-workflow-dylan-coleman.md)
+* [Slim RAW](davinci-resolve/slim-raw.md)
+* [Audio Enhancement](davinci-resolve/audio-enhancement.md)
 * [Shortcuts](davinci-resolve/shortcuts.md)
 * [Links](davinci-resolve/links.md)
 

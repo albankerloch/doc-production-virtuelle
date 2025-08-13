@@ -1,2 +1,0 @@
-# Sigma FP Workflow
-
