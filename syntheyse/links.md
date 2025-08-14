@@ -38,5 +38,9 @@ _Geometry :_
 
 Tutorial 03 Building Proxy Geometry : [https://www.youtube.com/watch?v=Zyd9mtkoMBA](https://www.youtube.com/watch?v=Zyd9mtkoMBA)
 
+Import Mesh / Lidar :
+
+[https://www.youtube.com/watch?v=3-VqlWM9oNw](https://www.youtube.com/watch?v=3-VqlWM9oNw)
+
 
 
