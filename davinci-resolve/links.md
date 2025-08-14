@@ -16,7 +16,9 @@ HFOV : [https://www.tferradans.com/anacalc/](https://www.tferradans.com/anacalc/
 
 Blender to Resolve: a Freemium Video Course : [Link](https://track.gumroad.com/CL0/https:%2F%2Fgumroad.com%2Fd%2F9eb5bca9bb21e967f4f3c368cd3d4e8a/1/010001989b79985e-c352fa85-4909-4d91-bed4-d668cffd9786-000000/gJG8H2y_jFscWsXv_w0DpDTrE2UnTCZv3c5mnlKQrvU=417)
 
-_Dylan Coleman :_
+_Sigma FP_
+
+Dylan Coleman :
 
 * [https://www.youtube.com/watch?v=ZE\_hi2hE7z0](https://www.youtube.com/watch?v=ZE_hi2hE7z0) (Grading)
 * [https://www.youtube.com/watch?v=Jc74WkeeeSc\&t=3s](https://www.youtube.com/watch?v=Jc74WkeeeSc\&t=3s) (Grading)
@@ -50,7 +52,9 @@ Dylan Coleman :
 * [https://www.youtube.com/watch?v=j41JRy1tEkk\&t=5s](https://www.youtube.com/watch?v=j41JRy1tEkk\&t=5s) (sliwRAW)
 * [https://www.youtube.com/watch?v=zIB1180MK1w](https://www.youtube.com/watch?v=zIB1180MK1w) (Media Management)
 
-AZFIlmaking :[https://www.youtube.com/watch?v=\_lGzNFIl19g](https://www.youtube.com/watch?v=_lGzNFIl19g) (mimic ARRI look)
+AZFIlmaking : [https://www.youtube.com/watch?v=\_lGzNFIl19g](https://www.youtube.com/watch?v=_lGzNFIl19g) (mimic ARRI look)
+
+Justin Phillips : [https://www.youtube.com/watch?v=3GWMxBspBRs](https://www.youtube.com/watch?v=3GWMxBspBRs)
 
 _Général Photo_
 
