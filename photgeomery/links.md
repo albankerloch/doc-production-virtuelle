@@ -9,3 +9,5 @@ Different scan app : [https://www.youtube.com/watch?v=9dyAj9gXIms](https://www.y
 3DGS : [https://www.youtube.com/watch?v=9p\_i9nKZA4Q](https://www.youtube.com/watch?v=9p_i9nKZA4Q)
 
 Triangle Splatting : [https://www.youtube.com/watch?v=F0H3NAHP9r0](https://www.youtube.com/watch?v=F0H3NAHP9r0)
+
+3DGS app : [https://www.youtube.com/watch?v=CrlSey4RmVI](https://www.youtube.com/watch?v=CrlSey4RmVI)
