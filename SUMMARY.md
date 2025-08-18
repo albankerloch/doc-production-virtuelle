@@ -92,3 +92,8 @@
 
 * [Aspect Ratio](culture/aspect-ratio.md)
 * [Links](culture/links.md)
+
+## Photgeomery
+
+* [Scan a room](photgeomery/scan-a-room.md)
+* [Links](photgeomery/links.md)
