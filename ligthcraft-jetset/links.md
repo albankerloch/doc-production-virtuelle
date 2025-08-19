@@ -14,6 +14,8 @@ IA Vidéo with Runaway : [https://share.descript.com/view/NuddlN8WZau](https://s
 
 **À refaire :**&#x20;
 
+COLMAP : [**https://www.youtube.com/watch?v=xx85eyN1Xc0**](https://www.youtube.com/watch?v=xx85eyN1Xc0)
+
 
 
 **À regarder :**
