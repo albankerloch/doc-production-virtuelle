@@ -11,3 +11,7 @@ Different scan app : [https://www.youtube.com/watch?v=9dyAj9gXIms](https://www.y
 Triangle Splatting : [https://www.youtube.com/watch?v=F0H3NAHP9r0](https://www.youtube.com/watch?v=F0H3NAHP9r0)
 
 3DGS app : [https://www.youtube.com/watch?v=CrlSey4RmVI](https://www.youtube.com/watch?v=CrlSey4RmVI)
+
+3DGS to blender : [https://www.youtube.com/watch?v=1f5kI5khtA0](https://www.youtube.com/watch?v=1f5kI5khtA0)
+
+kiri add on : [https://www.youtube.com/watch?v=WUL73wQDtcE](https://www.youtube.com/watch?v=WUL73wQDtcE)
