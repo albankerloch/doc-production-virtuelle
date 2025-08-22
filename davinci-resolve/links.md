@@ -41,6 +41,10 @@ Anson & Co :&#x20;
 * [https://www.youtube.com/watch?v=BGiu8PKuaso](https://www.youtube.com/watch?v=BGiu8PKuaso) (Grading)
 * [https://www.youtube.com/watch?v=eP2s1WXHmag](https://www.youtube.com/watch?v=eP2s1WXHmag) (settings for Sigma FP) ⇒ native ISO : 100 / 3200 + WB not in auto (in case of change during the shot) / Magnificient full frame
 
+Dehancer plugin :
+
+* [https://www.youtube.com/watch?v=mTbgGvsBTco](https://www.youtube.com/watch?v=mTbgGvsBTco)
+
 
 
 **À regarder :**
