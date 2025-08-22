@@ -85,7 +85,3 @@
 * [Preparation](workflow/preparation.md)
 * [Shooting](workflow/shooting.md)
 * [Tracking](workflow/tracking.md)
-
-***
-
-*
