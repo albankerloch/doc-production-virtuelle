@@ -79,3 +79,13 @@
 
 * [Scan a room](photgeomery/scan-a-room.md)
 * [Links](photgeomery/links.md)
+
+## Workflow
+
+* [Preparation](workflow/preparation.md)
+* [Shooting](workflow/shooting.md)
+* [Tracking](workflow/tracking.md)
+
+***
+
+*
