@@ -1,2 +1,0 @@
-# Geotracker in Blender
-

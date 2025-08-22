@@ -1,15 +1,31 @@
 # Table of contents
 
+## Ligthcraft jetset
+
+* [Install AutoShot in Blender](README.md)
+* [Create  the structure in Blender](ligthcraft-jetset/create-the-structure-in-blender.md)
+* [Import in Ligthcraft Jetset](ligthcraft-jetset/import-in-ligthcraft-jetset.md)
+* [Set the camera](ligthcraft-jetset/set-the-camera.md)
+* [Import shots with AutoShot](ligthcraft-jetset/import-shots-with-autoshot.md)
+* [Import shots in AutoShot V2](ligthcraft-jetset/import-shots-in-autoshot-v2.md)
+* [Find start / end frames in DVR](ligthcraft-jetset/find-start-end-frames-in-dvr.md)
+* [Export to Blender](ligthcraft-jetset/export-to-blender.md)
+* [Export EXR from Blender](ligthcraft-jetset/export-exr-from-blender.md)
+* [Adjust the structure in Blender](ligthcraft-jetset/adjust-the-structure-in-blender.md)
+* [GeoTracker in Blender](ligthcraft-jetset/geotracker-in-blender.md)
+* [Install INPYRENET in AutoShot](ligthcraft-jetset/install-inpyrenet-in-autoshot.md)
+* [Links](ligthcraft-jetset/links.md)
+
 ## Blender
 
-* [Modes on Blender](README.md)
+* [Modes on Blender](<README (1).md>)
 * [Create an Object](blender/create-an-object.md)
 * [Modifiers](blender/modifiers.md)
 * [Camera](blender/camera.md)
 * [Compositing](blender/compositing.md)
 * [Snapping Mode](blender/snapping-mode.md)
 * [Material](blender/material.md)
-* [Create a room](<README (1).md>)
+* [Create a room](<README (1) (1).md>)
 * [Render](blender/render.md)
 * [Video Editing](blender/video-editing.md)
 * [Lighting](blender/lighting.md)
@@ -17,11 +33,6 @@
 * [Export in USD](blender/exporter-en-usd.md)
 * [Shorcuts](blender/shorcuts.md)
 * [Links](blender/links.md)
-
-## Ligthcraft jetset
-
-* [Create a projet](ligthcraft-jetset/creer-un-projet.md)
-* [Links](ligthcraft-jetset/links.md)
 
 ## DaVinci Resolve
 
@@ -33,24 +44,12 @@
 * [Sigma FP Workflow (P3)](davinci-resolve/sigma-fp-workflow-p3.md)
 * [Slim RAW](davinci-resolve/slim-raw.md)
 * [Audio Enhancement](davinci-resolve/audio-enhancement.md)
+* [Tracking in DVR and Blender](davinci-resolve/tracking-in-dvr-and-blender/README.md)
+  * [Camera tracking in DVR](davinci-resolve/tracking-in-dvr-and-blender/camera-tracking-in-dvr.md)
+  * [Export final set from Blender](davinci-resolve/tracking-in-dvr-and-blender/export-final-set-from-blender.md)
+  * [Compositing in DVR](davinci-resolve/tracking-in-dvr-and-blender/compositing-in-dvr.md)
 * [Shortcuts](davinci-resolve/shortcuts.md)
 * [Links](davinci-resolve/links.md)
-
-## Workflow
-
-* [Create  the structure in Blender](workflow/create-the-structure-in-blender.md)
-* [Import in Ligthcraft Jetset](workflow/import-in-ligthcraft-jetset.md)
-* [Set the camera](workflow/set-the-camera.md)
-* [Import shots with AutoShot](workflow/import-shots-with-autoshot.md)
-* [Find start / end frames in DVR](workflow/find-start-end-frames-in-dvr.md)
-* [Export to Blender](workflow/export-to-blender.md)
-* [Export EXR from Blender](workflow/export-exr-from-blender.md)
-
-## Tracking in DVR
-
-* [Camera tracking in DVR](tracking-in-dvr/camera-tracking-in-dvr.md)
-* [Export final set from Blender](tracking-in-dvr/export-final-set-from-blender.md)
-* [Compositing in DVR](tracking-in-dvr/compositing-in-dvr.md)
 
 ## Tracking with SynthEyes
 
@@ -58,35 +57,18 @@
 * [Adjustment in Blender](tracking-with-syntheyes/adjustment-in-blender.md)
 * [Compositing in DVR](tracking-with-syntheyes/compositing-in-dvr.md)
 * [Compositing in Nuke](tracking-with-syntheyes/compositing-in-nuke.md)
-* [Tracking with Insta 360](tracking-with-syntheyes/tracking-with-insta-360.md)
-
-## Tracking with AutoShot
-
-* [Import shots in AutoShot](tracking-with-autoshot/import-shots-in-autoshot.md)
-* [Create the structure in Blender](tracking-with-autoshot/create-the-structure-in-blender.md)
-
-## Tracking with GeoTracker
-
-* [GeoTracker in Blender](tracking-with-geotracker/geotracker-in-blender.md)
 
 ## SynthEyse
 
-* [1) With SynthEyes only](syntheyse/1-with-syntheyes-only.md)
-* [2) With Witness Camera](syntheyse/2-with-witness-camera.md)
-* [3) With Jetset Cine](syntheyse/3-with-jetset-cine.md)
-* [Ground level manually](syntheyse/ground-level-manually.md)
-* [Ground level with Autoplacement](syntheyse/ground-level-with-autoplacement.md)
-* [Ground level with trackers](syntheyse/ground-level-with-trackers.md)
-* [Ground level with lines](syntheyse/ground-level-with-lines.md)
+* [Tracking with SynthEyes only](syntheyse/tracking-with-syntheyes-only.md)
+* [Tracking with Insta 360](syntheyse/tracking-with-insta-360.md)
+* [Ground level](syntheyse/ground-level/README.md)
+  * [Ground level manually](syntheyse/ground-level/ground-level-manually.md)
+  * [Ground level with Autoplacement](syntheyse/ground-level/ground-level-with-autoplacement.md)
+  * [Ground level with trackers](syntheyse/ground-level/ground-level-with-trackers.md)
+  * [Ground level with lines](syntheyse/ground-level/ground-level-with-lines.md)
 * [Add Geometry](syntheyse/add-geometry.md)
 * [Links](syntheyse/links.md)
-
-## Software Installation
-
-* [INPYRENET in AutoShot](software-installation/inpyrenet-in-autoshot.md)
-* [AutoShot in Blender](software-installation/autoshot-in-blender.md)
-* [Geotracker in Blender](software-installation/geotracker-in-blender.md)
-* [Nuke](software-installation/nuke.md)
 
 ## Culture
 
