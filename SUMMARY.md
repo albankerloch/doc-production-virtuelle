@@ -79,13 +79,15 @@
 * [Storyboard](practical-tips/storyboard.md)
 * [Set Up for Virtual Production](generalities/set-up-for-virtual-production.md)
 * [Shooting Process](practical-tips/shooting-process.md)
+* [Data Management](practical-tips/data-management.md)
 
 ## Workflow
 
 * [Preparation](workflow/preparation.md)
   * [Storyboard](practical-tips/storyboard.md)
   * [LiDAR scan with Polycam](blender/scan-a-room.md)
-* [Shooting](workflow/shooting.md)
+* [Shooting](workflow/shooting/README.md)
+  * [Shooting Process](practical-tips/shooting-process.md)
 * [Tracking](workflow/tracking.md)
 * [Virtual Set](workflow/virtual-set.md)
 * [Compositing](workflow/compositing.md)

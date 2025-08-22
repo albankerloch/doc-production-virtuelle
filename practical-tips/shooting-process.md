@@ -65,3 +65,11 @@
 * If the shot is not good :
   * Write down what was wrong
   * Change the scene number on the Video Assist
+
+
+
+**Immediatly after the shooting, launch the footage backup process**
+
+{% content-ref url="data-management.md" %}
+[data-management.md](data-management.md)
+{% endcontent-ref %}
