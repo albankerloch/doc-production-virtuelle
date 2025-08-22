@@ -85,7 +85,7 @@ Error must be < 1 HPIX
 
 Check if the focal is ok between AutoShot and SynthEyes
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
 If not, click on 24.900 x 14.006 mm to change manually the sensor size (depending on the camera)
 

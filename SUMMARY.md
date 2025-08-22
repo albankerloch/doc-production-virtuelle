@@ -31,6 +31,7 @@
 * [Lighting](blender/lighting.md)
 * [Animation](<README (2).md>)
 * [Export in USD](blender/exporter-en-usd.md)
+* [Scan a room](blender/scan-a-room.md)
 * [Shorcuts](blender/shorcuts.md)
 * [Links](blender/links.md)
 
@@ -51,13 +52,6 @@
 * [Shortcuts](davinci-resolve/shortcuts.md)
 * [Links](davinci-resolve/links.md)
 
-## Tracking with SynthEyes
-
-* [Refine tracking in SynthEyes](tracking-with-syntheyes/refine-tracking-in-syntheyes.md)
-* [Adjustment in Blender](tracking-with-syntheyes/adjustment-in-blender.md)
-* [Compositing in DVR](tracking-with-syntheyes/compositing-in-dvr.md)
-* [Compositing in Nuke](tracking-with-syntheyes/compositing-in-nuke.md)
-
 ## SynthEyse
 
 * [Tracking with SynthEyes only](syntheyse/tracking-with-syntheyes-only.md)
@@ -67,6 +61,11 @@
   * [Ground level with Autoplacement](syntheyse/ground-level/ground-level-with-autoplacement.md)
   * [Ground level with trackers](syntheyse/ground-level/ground-level-with-trackers.md)
   * [Ground level with lines](syntheyse/ground-level/ground-level-with-lines.md)
+* [Refine JetSet tracking](syntheyse/refine-jetset-tracking/README.md)
+  * [Refine tracking in SynthEyes](syntheyse/refine-jetset-tracking/refine-tracking-in-syntheyes.md)
+  * [Adjustment in Blender](syntheyse/refine-jetset-tracking/adjustment-in-blender.md)
+  * [Compositing in DVR](syntheyse/refine-jetset-tracking/compositing-in-dvr.md)
+  * [Compositing in Nuke](syntheyse/refine-jetset-tracking/compositing-in-nuke.md)
 * [Add Geometry](syntheyse/add-geometry.md)
 * [Links](syntheyse/links.md)
 
@@ -75,15 +74,10 @@
 * [Aspect Ratio](culture/aspect-ratio.md)
 * [Links](culture/links.md)
 
-## Photgeomery
+## Generalities
 
-* [Scan a room](photgeomery/scan-a-room.md)
-* [Links](photgeomery/links.md)
-
-## Gear
-
-* [General Set Up](gear/general-set-up.md)
-* [Set Up for Virtual Production](gear/set-up-for-virtual-production.md)
+* [Set Up for Virtual Production](generalities/set-up-for-virtual-production.md)
+* [HMC](generalities/hmc.md)
 
 ## Workflow
 

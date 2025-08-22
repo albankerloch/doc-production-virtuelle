@@ -46,7 +46,7 @@ Maj + S ⇒ Cursor to select
 
 Cursor ⇒ 3D Cursor
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="300"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="300"><figcaption></figcaption></figure>
 
 R + X ⇒ Adjust the perspective with the other cursors
 
@@ -64,7 +64,7 @@ Output parameters :&#x20;
 
 Check the transparent boc in the Film section of Rendering :&#x20;
 
-<figure><img src="../.gitbook/assets/image (29).png" alt="" width="335"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29).png" alt="" width="335"><figcaption></figcaption></figure>
 
 Render ⇒ Render animation (without chisels)
 

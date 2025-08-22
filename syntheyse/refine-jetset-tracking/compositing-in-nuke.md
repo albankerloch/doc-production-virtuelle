@@ -70,7 +70,7 @@ Copy and paste the Cam1Reade1 node
 
 Direct the new Cam1Reader1 node to the Cam1Merge (over)
 
-<figure><img src="../.gitbook/assets/image (27).png" alt="" width="495"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt="" width="495"><figcaption></figcaption></figure>
 
 Select the Cam1Merge (over)
 
@@ -88,7 +88,7 @@ Change the compression to DWWA
 
 (the output directory is already set up)
 
-<figure><img src="../.gitbook/assets/image (28).png" alt="" width="249"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28).png" alt="" width="249"><figcaption></figcaption></figure>
 
 Select the Write1 node
 
