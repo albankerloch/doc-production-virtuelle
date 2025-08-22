@@ -31,7 +31,7 @@
 * [Lighting](blender/lighting.md)
 * [Animation](<README (2).md>)
 * [Export in USD](blender/exporter-en-usd.md)
-* [Scan a room](blender/scan-a-room.md)
+* [LiDAR scan with Polycam](blender/lidar-scan-with-polycam.md)
 * [Shorcuts](blender/shorcuts.md)
 * [Links](blender/links.md)
 
@@ -77,12 +77,12 @@
 ## Practical Tips
 
 * [Storyboard](practical-tips/storyboard.md)
-* [Set Up for Virtual Production](practical-tips/set-up-for-virtual-production.md)
-* [HMC](practical-tips/hmc.md)
+* [Set Up for Virtual Production](generalities/set-up-for-virtual-production.md)
+* [HMC](generalities/hmc.md)
 
 ## Workflow
 
-* [Preparation](workflow/preparation/README.md)
+* [Preparation](workflow/preparation.md)
   * [Storyboard](practical-tips/storyboard.md)
 * [Shooting](workflow/shooting.md)
 * [Tracking](workflow/tracking.md)

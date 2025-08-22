@@ -7,10 +7,12 @@
 * For how long
 * What is the frame
 * What is the expecting lighting
+* What accessories is needed
+* What clothes is nedded
 
 
 
-**To help :**
+**To help during the shoot :**
 
 * Print a previz of the shots
 * Do a diagram of the the shots, like this one :
