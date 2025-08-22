@@ -80,8 +80,15 @@
 * [Scan a room](photgeomery/scan-a-room.md)
 * [Links](photgeomery/links.md)
 
+## Gear
+
+* [General Set Up](gear/general-set-up.md)
+* [Set Up for Virtual Production](gear/set-up-for-virtual-production.md)
+
 ## Workflow
 
 * [Preparation](workflow/preparation.md)
 * [Shooting](workflow/shooting.md)
 * [Tracking](workflow/tracking.md)
+* [Virtual Set](workflow/virtual-set.md)
+* [Compositing](workflow/compositing.md)
