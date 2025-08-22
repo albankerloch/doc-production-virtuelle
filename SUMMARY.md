@@ -74,14 +74,16 @@
 * [Aspect Ratio](culture/aspect-ratio.md)
 * [Links](culture/links.md)
 
-## Generalities
+## Practical Tips
 
-* [Set Up for Virtual Production](generalities/set-up-for-virtual-production.md)
-* [HMC](generalities/hmc.md)
+* [Storyboard](practical-tips/storyboard.md)
+* [Set Up for Virtual Production](practical-tips/set-up-for-virtual-production.md)
+* [HMC](practical-tips/hmc.md)
 
 ## Workflow
 
-* [Preparation](workflow/preparation.md)
+* [Preparation](workflow/preparation/README.md)
+  * [Storyboard](practical-tips/storyboard.md)
 * [Shooting](workflow/shooting.md)
 * [Tracking](workflow/tracking.md)
 * [Virtual Set](workflow/virtual-set.md)
