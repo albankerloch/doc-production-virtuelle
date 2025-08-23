@@ -32,6 +32,7 @@
 * [Animation](<README (2).md>)
 * [Export in USD](blender/exporter-en-usd.md)
 * [LiDAR scan with Polycam](blender/scan-a-room.md)
+* [Polycam scan for SynthEyes](blender/polycam-scan-for-syntheyes.md)
 * [Shorcuts](blender/shorcuts.md)
 * [Links](blender/links.md)
 
