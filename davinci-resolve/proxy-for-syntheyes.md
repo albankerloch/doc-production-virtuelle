@@ -4,7 +4,11 @@
 
 With the scene timeline, cut the scene (remove uncessesary begining and ending)
 
-Just in case note the start frame and the end frame (see Source Frame at the top right of the footage instead of the Source Timecode)
+Set Source Frame at the top right of the footage instead of the Source Timecode :
+
+<figure><img src="../.gitbook/assets/image (26).png" alt="" width="279"><figcaption></figcaption></figure>
+
+Just in case note the start frame and the end frame&#x20;
 
 
 

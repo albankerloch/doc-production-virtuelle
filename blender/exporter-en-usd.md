@@ -1,2 +1,0 @@
-# Export in USD
-
