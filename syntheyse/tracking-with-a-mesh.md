@@ -56,7 +56,6 @@ _\[Never work with BRAW ⇒ impossible to export to Blender]_
   * If the solve did decrease too much, reset the last values to Automatic
   * Refine
   * If the solve did decrease too much, reset the last values to Automatic
-* Click on Lens Worflow ⇒ 2) Distorted
 * Remove very bad trackers (Shift + C ⇒ Bad Frames = Disable + High Error Trackers < 5 000 ⇒ Fix)
 * Change Automatic to Refine
 * Click on Go! again
@@ -75,6 +74,7 @@ _\[Never work with BRAW ⇒ impossible to export to Blender]_
 * Place more trackers
 * On the Solve room, check the Constrain box
 * Refine the solve
+* Click on Lens Worflow ⇒ 2) Distorted
 
 
 
