@@ -32,7 +32,7 @@
 * [Animation](<README (2).md>)
 * [Export in USD](blender/exporter-en-usd.md)
 * [LiDAR scan with Polycam](blender/scan-a-room.md)
-* [Polycam scan for SynthEyes](blender/polycam-scan-for-syntheyes.md)
+* [Polycam for SynthEyes](blender/polycam-for-syntheyes.md)
 * [Shorcuts](blender/shorcuts.md)
 * [Links](blender/links.md)
 
@@ -71,6 +71,7 @@
   * [Compositing in Nuke](syntheyse/refine-jetset-tracking/compositing-in-nuke.md)
 * [Add Geometry](syntheyse/add-geometry.md)
 * [Links](syntheyse/links.md)
+* [Tracking with a Mesh](syntheyse/tracking-with-a-mesh.md)
 
 ## Culture
 
@@ -96,5 +97,6 @@
   * [Select the best shot](davinci-resolve/select-the-best-shot.md)
 * [Tracking](workflow/tracking/README.md)
   * [Proxy for SynthEyes](davinci-resolve/proxy-for-syntheyes.md)
+  * [Polycam for SynthEyes](blender/polycam-for-syntheyes.md)
 * [Virtual Set](workflow/virtual-set.md)
 * [Compositing](workflow/compositing.md)
