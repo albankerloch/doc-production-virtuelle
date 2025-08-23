@@ -37,6 +37,8 @@
 
 ## DaVinci Resolve
 
+* [Select the best shot](davinci-resolve/select-the-best-shot.md)
+* [Proxy for SynthEyes](davinci-resolve/proxy-for-syntheyes.md)
 * [Blender Color Management](davinci-resolve/blender-color-management.md)
 * [Blender Color Grading Workflow](davinci-resolve/blender-color-grading-workflow.md)
 * [LUTs for Blender EXR](davinci-resolve/luts-for-blender-exr.md)
@@ -88,6 +90,10 @@
   * [LiDAR scan with Polycam](blender/scan-a-room.md)
 * [Shooting](workflow/shooting/README.md)
   * [Shooting Process](practical-tips/shooting-process.md)
-* [Tracking](workflow/tracking.md)
+  * [Data Management](practical-tips/data-management.md)
+* [Shot Selection](workflow/shot-selection/README.md)
+  * [Select the best shot](davinci-resolve/select-the-best-shot.md)
+* [Tracking](workflow/tracking/README.md)
+  * [Proxy for SynthEyes](davinci-resolve/proxy-for-syntheyes.md)
 * [Virtual Set](workflow/virtual-set.md)
 * [Compositing](workflow/compositing.md)

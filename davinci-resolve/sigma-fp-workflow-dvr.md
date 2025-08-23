@@ -10,7 +10,7 @@ Camera Raw  (as Clip if note already changed in Project Settings  / Camera RAW  
 
 ⇒ Raise the exposure (shot underexposed)
 
-⇒ Bring down the hightlights
+⇒ Bring down the hightlights (if clipping)
 
 
 
@@ -94,7 +94,7 @@ Correct Exposure and L. S. (Low Shadow) if needed
 
 
 
-**AZ Filmaking 3 nodes**&#x20;
+**AZ Filmaking 6 nodes**&#x20;
 
 **Node 1 : Noise Reduction**&#x20;
 
@@ -107,8 +107,6 @@ Luma and Chroma unlocked
 Luma = 1
 
 Chroma = 20
-
-
 
 **Node 2 : Adjusment (Color)**
 

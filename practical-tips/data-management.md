@@ -8,6 +8,7 @@
     * Diagram.io
   * Footage&#x20;
     * Video Assist
+    * Proxy
   * Post-Prod
     * Blender
     * DaVinci
