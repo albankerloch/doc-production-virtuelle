@@ -6,7 +6,7 @@
 * Save the SynthEyes files to the scene folder (Post-Prod / SynthEyes)
 * Solver room : click on 24 mm \* 15 mm
 * Set the sensor size to 35.9 mm
-* Set the pixel size to 1.6 (if the shot is in anamorphic)
+* If the shot is in anamorphic : set the pixel size to 1.6
 
 
 
@@ -35,6 +35,20 @@
 * Remove bad trackers (Shift + C)
 * Change Automatic to Refine
 * Click on Go! again
+* Check Calc. Distortion
+* If the shot is anamorphic :
+  * With the more button, choose std for the two first values
+* If the shot is not anamorphic :
+  * With the more button, choose 4th radiatic and calculate for the two first values
+  * Refine
+  * If the solve did not decrease too much, calculate for the two more values
+  * Refine
+  * If the solve did decrease too much, reset the last values to Automatic
+* Click on Lens Worflow ⇒ 2) Distorted
+
+
+
+**Link the Mesh to the solved**
 
 
 

@@ -1,4 +1,4 @@
-# Polycam scan for SynthEyes
+# Polycam for SynthEyes
 
 **Blender**
 
