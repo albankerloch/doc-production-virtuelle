@@ -58,8 +58,7 @@ _\[Never work with BRAW ⇒ impossible to export to Blender]_
   * Refine
   * If the solve decreased too much, reset the last values to Manual
 * Remove very bad trackers (Shift + C ⇒ Bad Frames = Disable + High Error Trackers < 5 000 ⇒ Fix)
-* Change Automatic to Refine
-* Click on Go! again
+* Refine
 
 
 
@@ -72,9 +71,14 @@ _\[Never work with BRAW ⇒ impossible to export to Blender]_
 * Click on the Mesh where the tracker selected is supposed to be
 * Repat that for 4 or 5 trackers
 * On the Solve room, Refine the solve
+
+
+
+**Refine the link with the Mesh**
+
 * Place more trackers
 * On the Solve room, check the Constrain box
-* Refine the solve
+* Refine&#x20;
 * Click on Lens Worflow ⇒ 2) Distorted
 
 
