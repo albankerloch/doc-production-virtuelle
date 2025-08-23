@@ -42,20 +42,21 @@ _\[Never work with BRAW ⇒ impossible to export to Blender]_
 * Click on Go! again
 * Check Calc. Distortion
 * If the shot is anamorphic :
-  * With the more button, choose "Std. Anamorphic" for the first three values
+  * With the more button, choose "Std. Anamorphic Merged" for the first three values
   * Refine
   * If the solve did not decrease too much, calculate for :
     * all values in C's&#x20;
     * first, second, fourth and fifth values in O's
   * Refine
-  * If the solve did decrease too much, reset the last values to 0 and set to Manual
+  * With the more button, choose "Std. Anamorphic"
+  * Refine
+  * If the solve decreased too much, reset the last values to 0 and set to Manual
 * If the shot is not anamorphic :
   * With the more button, choose "4th Radial" and calculate for the first two values
   * Refine
   * If the solve did not decrease too much, calculate for the two more values
-  * If the solve did decrease too much, reset the last values to Automatic
   * Refine
-  * If the solve did decrease too much, reset the last values to Automatic
+  * If the solve decreased too much, reset the last values to Manual
 * Remove very bad trackers (Shift + C ⇒ Bad Frames = Disable + High Error Trackers < 5 000 ⇒ Fix)
 * Change Automatic to Refine
 * Click on Go! again
