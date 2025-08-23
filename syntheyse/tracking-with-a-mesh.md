@@ -25,6 +25,9 @@ _\[Never work with BRAW ⇒ impossible to export to Blender]_
 **Trackers**
 
 * Script ⇒ \*Multi Peel JETSET (import it if needed)
+
+{% file src="../.gitbook/assets/Multi-peel_JETSET_Style.sia" %}
+
 * Check visually for very bad trackers (points on the sensor)
 * Remove manually very bad trackers
 
@@ -62,7 +65,16 @@ _\[Never work with BRAW ⇒ impossible to export to Blender]_
 
 **Link the Mesh to the solved**
 
-
+* Hit T to open the Texture Menu and Set File with the texture from Polycam
+* On the 3D room, choose the Camera & Perpective view
+* Select a tracker in the Camera view
+* Select "Place" in the Perpective view
+* Click on the Mesh where the tracker selected is supposed to be
+* Repat that for 4 or 5 trackers
+* On the Solve room, Refine the solve
+* Place more trackers
+* On the Solve room, check the Constrain box
+* Refine the solve
 
 
 
