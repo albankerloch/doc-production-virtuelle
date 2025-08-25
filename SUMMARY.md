@@ -31,12 +31,13 @@
 * [Animation](<README (2).md>)
 * [LiDAR scan with Polycam](blender/scan-a-room.md)
 * [Polycam for SynthEyes](blender/polycam-scan-for-syntheyes.md)
+* [3D GS with KIRI](blender/3d-gs-with-kiri.md)
+* [3D GS for SynthEyes](blender/3d-gs-for-syntheyes.md)
 * [Shorcuts](blender/shorcuts.md)
 * [Links](blender/links.md)
 
 ## DaVinci Resolve
 
-* [Proxy for SynthEyes](davinci-resolve/proxy-for-syntheyes.md)
 * [⌚ Select the best shot](davinci-resolve/select-the-best-shot.md)
 * [Blender Color Management](davinci-resolve/blender-color-management.md)
 * [Blender Color Grading Workflow](davinci-resolve/blender-color-grading-workflow.md)
@@ -87,15 +88,14 @@
 
 * [Preparation](workflow/preparation.md)
   * [Storyboard](practical-tips/storyboard.md)
-  * [LiDAR scan with Polycam](blender/scan-a-room.md)
 * [Shooting](workflow/shooting/README.md)
+  * [3D GS with KIRI](blender/3d-gs-with-kiri.md)
   * [Shooting Process](practical-tips/shooting-process.md)
   * [Data Management](practical-tips/data-management.md)
 * [Shot Selection](workflow/shot-selection/README.md)
   * [Select the best shot](davinci-resolve/select-the-best-shot.md)
 * [Tracking](workflow/tracking/README.md)
-  * [Proxy for SynthEyes](davinci-resolve/proxy-for-syntheyes.md)
-  * [Polycam for SynthEyes](blender/polycam-scan-for-syntheyes.md)
+  * [3D GS for SynthEyes](blender/3d-gs-for-syntheyes.md)
   * [Tracking with a Mesh](syntheyse/tracking-with-a-mesh.md)
 * [Virtual Set](workflow/virtual-set.md)
 * [Compositing](workflow/compositing.md)

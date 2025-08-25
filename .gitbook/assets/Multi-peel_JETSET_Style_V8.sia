@@ -1,0 +1,39 @@
+//Multi-Peel JETSET Style V8
+
+say "*********************".
+say "`Don't multitask while running: check email, twitter, etc. 😉`".
+say "`It will grab window focus and crash the script`".
+say "*********************".
+
+features room.
+
+make current camera's small blip density 0.008.
+make current camera's big blip density 0.004.
+
+make current camera's small blip size 8.
+make current camera's big blip size 16.
+make current camera's maximum tracker count number of frames*0.7.
+click and wait for "blips all frames" button.
+//wait 2 seconds.
+click and wait for "peel All" button.
+//wait 2 seconds.
+clear all blips.
+
+make current camera's maximum tracker count number of frames*1.5.
+make current camera's small blip size 12.
+make current camera's big blip size 24.
+click and wait for "blips all frames" button.
+//wait 2 seconds.
+click and wait for "peel All" button.
+//wait 2 seconds.
+clear all blips.
+
+make current camera's maximum tracker count number of frames*0.5.
+make current camera's small blip size 16.
+make current camera's big blip size 32.
+click and wait for "blips all frames" button.
+//wait 2 seconds.
+click and wait for "peel All" button.
+//wait 2 seconds.
+clear all blips.
+
