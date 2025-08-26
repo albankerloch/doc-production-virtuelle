@@ -15,6 +15,7 @@
 **To help during the shoot :**
 
 * Print a previz of the shots
+* Produce a calc version with the Video Assist size
 * Do a diagram of the the shots, like this one :
 
 {% file src="../.gitbook/assets/SequenceDiagram.drawio" %}
