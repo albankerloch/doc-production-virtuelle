@@ -16,3 +16,15 @@ Process :
   * Frame Rate ⇒ Use Fix Frame Rate = 25
   * Timecode ⇒ 25 fps
 * Restart
+* Import the Aruco Tag into the scene
+* Create a Media Player (and Media Texture automatically)
+* Set the input source as USB Capture
+* Crate a new VP composition (0010\_comp)
+* Add 2 Layers : Media Plate & CGI
+* Select the Media Plate and Composure ⇒ Input ⇒ Media Texture
+* Select CGI elements ⇒ Layer window ⇒ Add Layer with Selected elements (Layer 1)
+* Select the CGI plate and Composure ⇒ Input ⇒ Capture Actors ⇒ Actor Set ⇒ Layer1
+* Select 0010\_comp and:
+  * Output ⇒ + ⇒ Output pass = Player Viewport
+  * Transform/Compositing Passes ⇒ + ⇒ Material ⇒ Material (New CompositingMaterial created)
+* Open the new material CompositingMaterial&#x20;
