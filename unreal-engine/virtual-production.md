@@ -78,13 +78,21 @@
 
 * Launch the Bliss REtracker
 * Windows ⇒ Virtual Production ⇒ LiveLink
-* \+ Source ⇒ IP Address (127.0.0.0) + (Port 50000)
+* \+ Source ⇒ ,LiveLink Bliss Source => IP Address (127.0.0.0) + (Port 50000)
+* Click on Bliss ⇒ Buffer - Settings :
+  * Buffer Size = 200&#x20;
+  * Offset = 0,145 s (to be confirmed)
+* \+ Source ⇒ Virtual Subject ⇒ select VirtualFIZ&#x20;
+* Presets ⇒ Save As Presets ⇒ Name it LiveLinkBliss Preset
+* Gears ⇒ Plugins ⇒ LiveLink ⇒ Default LiveLink Preset ⇒ select it
+* Select CineCameraActor ⇒ Details ⇒ Add ⇒ 2 LiveLinkComponentController :
+  * LiveLinkComponentControllerFIZ
+  * LiveLinkComponentControllerBliss
 
 
 
 
 
-*
 * Calibration
 * Check Calibration
 * Worldpose
