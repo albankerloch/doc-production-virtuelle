@@ -28,3 +28,15 @@ Process :
   * Output ⇒ + ⇒ Output pass = Player Viewport
   * Transform/Compositing Passes ⇒ + ⇒ Material ⇒ Material (New CompositingMaterial created)
 * Open the new material CompositingMaterial&#x20;
+  * Material ⇒ Material Domain ⇒ Post Process
+  * Right click ⇒ TextureSampleParameter2D ⇒ Duplicate
+  * Rename media\_plate\_1 and cg\_element\_1
+  * Right click ⇒ over
+  * Link media\_plate\_1 RGBA to over (A)
+  * Link cg\_element\_1 RGBA to over (B)
+  * Link over RGBA to Emissive Color
+* Chroma keying :&#x20;
+  * Select media\_plate\_1
+  * Transform/Compositing Passes ⇒ Transform Passes ⇒ Chroma Keying ⇒ Key Colors ⇒ +
+  * User Cross to choice the Green Color
+*
