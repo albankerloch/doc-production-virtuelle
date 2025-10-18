@@ -88,13 +88,42 @@
 * Select CineCameraActor ⇒ Details ⇒ Add ⇒ 2 LiveLinkComponentController :
   * LiveLinkComponentControllerFIZ
   * LiveLinkComponentControllerBliss
+* Select LiveLinkComponentControllerFIZ ⇒ LiveLink ⇒ Subject Representation ⇒ Virtual
+* Select LiveLinkComponentControllerBliss ⇒ LiveLink ⇒ Subject Representation ⇒ Camera1
 
 
 
+**Calibration**
 
-
-* Calibration
-* Check Calibration
+* Add objet to the scene ⇒ Virtual Production Production ⇒ Checkerboard
+* Select Checkboard and change :
+  * Num Corner Rows = 4
+  * Num Corner Cols = 6
+  * Odd Cube Materal = BlackUnlitMaterial
+* Create a Lens file on the content browser ⇒ Right click ⇒ Misilanious ⇒ Lens File
+* Select CineCameraActor ⇒ Details ⇒ Add ⇒ Lens
+* Select Lens created ⇒ Lens File = Lens File created before
+* Change Media Source to Media Texture and Select the Video Texture
+* Type the Lens Model Name
+* Type the Sensor dimensions (height / with \* 9 / 16)
+* Type the same Sensor dimensions on the cine camera actor
+* On the Lens File Panel, select Focus and click + twice :
+  * input value : 10, Encoder mapping : 10
+  * input value : 10000, Encoder mapping : 10000
+* On the Lens File Panel, select Iris and click + twice :
+  * input value : 3,2, Encoder mapping : 3,2
+  * input value : 16, Encoder mapping : 16
+* On the Calibration Steps, Lens Distortion panel :&#x20;
+  * Calibration Pattern = Checkerboard
+  * Calibrator = CameraCalibrationCheckerboard
+  * Click in the image several times (15-20) to capture the real checkerboard in different position
+  * Set guess focal lenght to your guess (ex : 28mm)
+  * Click Calibrate Lens and OK
+* Check Calibration on the Nodal Offset panel :&#x20;
+  * Nodal Offset Algo = Nodal Offset Checkerboard
+  * Checkerboard= CameraCalibrationCheckerboard
+  * Click in the image&#x20;
+  * Click on Apply to calibrator
 * Worldpose
 * Tracking delay
 
