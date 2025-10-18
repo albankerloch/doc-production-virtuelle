@@ -121,14 +121,28 @@
   * Click Calibrate Lens and OK
 * Check Calibration on the Nodal Offset panel :&#x20;
   * Nodal Offset Algo = Nodal Offset Checkerboard
-  * Checkerboard= CameraCalibrationCheckerboard
+  * Checkerboard = CameraCalibrationCheckerboard
   * Click in the image&#x20;
   * Click on Apply to calibrator
-* Worldpose
+* On the Lens File Panel, select Nodal Point and enter the nodal point offset calculated
+
+
+
+**Worldpose**
+
+* Copy the Aruco Tag folder in the Content Folder
+* Check Calibration on the Nodal Offset panel :
+  * Nodal Offset Algo = Nodal Offset Aruco Marker
+  * Checkerboard = Aruco\_ID\_8\_15x15cm\_C\_1
+  * Click in the image&#x20;
+  * Click on Apply to Camera Parent
+
+
+
 * Tracking delay
 
 
 
 
 
-* Copy the Aruco Tag folder in the Content Folder
+*
