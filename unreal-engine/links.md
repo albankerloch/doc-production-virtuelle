@@ -10,6 +10,12 @@ Virtual Production with Timecode :&#x20;
 
 
 
+Timecode from Decklink SDI :&#x20;
+
+[https://www.youtube.com/watch?v=5b6\_GLCzr3s](https://www.youtube.com/watch?v=5b6_GLCzr3s)
+
+
+
 Basic Greenscreen Virtual Production :&#x20;
 
 [https://www.youtube.com/watch?v=HGLJk\_2joxA\&t=375s](https://www.youtube.com/watch?v=HGLJk_2joxA\&t=375s)
