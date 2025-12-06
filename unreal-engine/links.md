@@ -25,3 +25,8 @@ Timecode from BMPCC :&#x20;
 Basic Greenscreen Virtual Production :&#x20;
 
 [https://www.youtube.com/watch?v=HGLJk\_2joxA\&t=375s](https://www.youtube.com/watch?v=HGLJk_2joxA\&t=375s)
+
+
+
+Timecode to frame : [https://editingtools.io/timecode/](https://editingtools.io/timecode/)
+
