@@ -34,3 +34,7 @@ Export from unreal to DVR : [https://www.youtube.com/watch?v=jePsqgyEEkA](https:
 
 Timecode to frame : [https://editingtools.io/timecode/](https://editingtools.io/timecode/)
 
+
+
+E01 UE 5 Virtual Production for Indie Filmmakers, Streamers ￼& Content Creators - Initial Setup : [https://www.youtube.com/watch?v=q5w-FaZUMYI\&t=830s](https://www.youtube.com/watch?v=q5w-FaZUMYI\&t=830s)
+
