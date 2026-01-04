@@ -33,6 +33,7 @@
 * [Polycam for SynthEyes](blender/polycam-scan-for-syntheyes.md)
 * [3D GS with KIRI](blender/3d-gs-with-kiri.md)
 * [3D GS for SynthEyes](blender/3d-gs-for-syntheyes.md)
+* [Memory Optimisation](blender/memory-optimisation.md)
 * [Shorcuts](blender/shorcuts.md)
 * [Links](blender/links.md)
 
