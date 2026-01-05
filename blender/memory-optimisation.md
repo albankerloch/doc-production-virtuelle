@@ -10,6 +10,8 @@ Optimisation tips :&#x20;
 * Data menu
 * Collection Instances
 
+
+
 **Simplify mode :**&#x20;
 
 * In Render properties, tick the Menu Simplify
@@ -20,30 +22,34 @@ Optimisation tips :&#x20;
 
 
 
+ToOptimize Tools
+
+View which collection have more triangle / vertices
+
+
+
+Memsaver
+
+
+
+Blender Scene Complexity
+
+View which collection have more triangle / vertices
+
+
+
 Add-on :
 
 Copy Attributes Menu
 
-Memsaver
+Scene Optimization
 
-Blender Scene Complexity
+
 
 
 
 For testing :
 
-Scene Optimization
-
 Profiling Buddy
 
-ToOptimize Tools
-
-Select by Minimum Vertices Count
-
-Bulk Mesh Analysis
-
 Mustard Simplify
-
-Simplify+
-
-Material Utilities
