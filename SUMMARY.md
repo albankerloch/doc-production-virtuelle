@@ -44,7 +44,7 @@
 * [Blender Color Grading Workflow](davinci-resolve/blender-color-grading-workflow.md)
 * [LUTs for Blender EXR](davinci-resolve/luts-for-blender-exr.md)
 * [Multi-Layer EXR](davinci-resolve/multi-layer-exr.md)
-* [Sigma FP Workflow (DVR)](davinci-resolve/sigma-fp-workflow-dvr.md)
+* [Sigma FP Workflow (BMD)](davinci-resolve/sigma-fp-workflow-bmd.md)
 * [Sigma FP Workflow (P3)](davinci-resolve/sigma-fp-workflow-p3.md)
 * [⌚ Slim RAW](davinci-resolve/slim-raw.md)
 * [Audio Enhancement](davinci-resolve/audio-enhancement.md)
