@@ -106,3 +106,4 @@
   * [Tracking with a Mesh](syntheyse/tracking-with-a-mesh.md)
 * [Virtual Set](workflow/virtual-set.md)
 * [Compositing](workflow/compositing.md)
+* [Schéma](workflow/schema.md)
