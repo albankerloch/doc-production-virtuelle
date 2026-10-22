@@ -148,3 +148,7 @@ Lancer Live Link Hub :&#x20;
 * Windows+R
 * CMD
 * "C:\Program Files\Epic Games\UE\_5.8\Engine\Binaries\Win64\LiveLinkHub.exe" -EnablePlugins="LiveLinkFreeD"
+
+Lancer Unreal Engine MCP :&#x20;
+
+* ModelContextProtocol.StartServer
